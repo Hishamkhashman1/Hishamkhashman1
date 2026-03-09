@@ -7,11 +7,13 @@ Tech I work with:
 Python • Ruby on Rails • JavaScript • SQL • Machine Learning • and everything in between 💪
 
 Projects (currently working on):
+
 [LinguaLogic](https://github.com/Hishamkhashman1/lingualogic) – gamified coding learning platform  
 [SEO Site Score App](https://github.com/Hishamkhashman1/seo-tool) – a fast SEO audit tool (ETA deployment: 25/03/2026)  
 [Forecast Alpha](https://github.com/Hishamkhashman1/forecast-alpha) – SaaS for SMB plug-and-play data analytics
 
 Previous projects:
+
 [World Cup 2026 Tracker](https://github.com/Hishamkhashman1/wc26-tracker)  
 [Who's Snooping](https://github.com/Hishamkhashman1/whos_snooping) – Local IP detection tool  
 [Stock Forecasting LSTM](https://github.com/Hishamkhashman1/stock-forecasting-lstm) – time-series ML project  
