@@ -9,7 +9,7 @@ Python • Ruby on Rails • JavaScript • SQL • Machine Learning • and eve
 Projects (currently working on):
 
 [LinguaLogic](https://github.com/Hishamkhashman1/lingualogic) – gamified coding learning platform  
-[SEO Site Score App](https://github.com/Hishamkhashman1/seo-tool) – a fast SEO audit tool with Nokogiri (ETA deployment: 25/03/2026)  
+[SEO Site Score App](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) – a fast SEO audit tool with Nokogiri (Deployed MVP) 
 [Forecast Alpha](https://github.com/Hishamkhashman1/forecast-alpha) – SaaS for SMB plug-and-play data analytics
 
 Previous projects:
