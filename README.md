@@ -4,7 +4,7 @@ Hola! · お疲れ様です！ · مرحبًا
 Full-Stack Software Engineer & Polyglot.
 
 Tech I work with:
-Python • Ruby on Rails • JavaScript • SQL • Machine Learning • and everything in between 💪
+Python • Ruby on Rails • JavaScript • SQL • Machine Learning •
 
 Projects (currently working on):
 
