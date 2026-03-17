@@ -1,7 +1,7 @@
 # Hi, I'm Hisham   
 Hola! · お疲れ様です！ · مرحبًا  
 
-Full-Stack Engineer focused on backend and data-driven applications.
+Consutlant & Full-Stack Engineer focused on backend and data-driven applications.
 
 I build SaaS platforms, analytics systems, and ML-powered tools using:  
 Python • Ruby on Rails • JavaScript • SQL • Machine Learning
