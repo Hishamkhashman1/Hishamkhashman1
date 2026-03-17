@@ -10,9 +10,9 @@ Projects (currently working on):
 
 [LinguaLogic](https://github.com/Hishamkhashman1/lingualogic) – gamified coding learning platform  
 
-[SEO Site Score App](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) – a fast SEO audit tool with Nokogiri (Deployed MVP) 
+[SEO Site Score App](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) – a fast SEO audit tool with Nokogiri (WIP) 
 
-[Forecast Alpha](https://github.com/Hishamkhashman1/forecast-alpha) – SaaS for SMB plug-and-play data analytics
+[Forecast Alpha](https://github.com/Hishamkhashman1/forecast-alpha) – SaaS for SMB plug-and-play data analytics (WIP)
 
 Previous projects:
 
