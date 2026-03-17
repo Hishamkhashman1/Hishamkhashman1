@@ -1,7 +1,7 @@
-# Hi, I'm Hisham 👋
+# Hi, I'm Hisham 
 Hola! · お疲れ様です！ · مرحبًا
 
-Full-Stack Software Engineer & Polyglot.
+Full-Stack Software Engineer.
 
 Tech I work with:
 Python • Ruby on Rails • JavaScript • SQL • Machine Learning •
