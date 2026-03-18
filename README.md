@@ -3,7 +3,7 @@ Hola! · お疲れ様です！ · مرحبًا
 
 Consutlant & Full-Stack Engineer focused on backend and data-driven applications.
 
-I build SaaS platforms, analytics systems, and ML-powered tools using:  
+I build SaaS platforms, Web Apps, analytics systems, and ML-powered tools using:  
 Python • Ruby on Rails • JavaScript • SQL • Machine Learning
 
 ---
