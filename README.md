@@ -11,7 +11,7 @@ Python • Ruby on Rails • JavaScript • SQL • Machine Learning
 ### 🚀 Current Projects
 - [**LinguaLogic**](https://github.com/Hishamkhashman1/lingualogic) – gamified coding learning platform  
 - [**Forecast Alpha**](https://github.com/Hishamkhashman1/forecast-alpha) – SaaS for plug-and-play data analytics for SMBs
-- [**SEO Cyber Tool**](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) – fun side project
+- [**SEO Cyber Tool**](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) – Get the best SEO score report out there and share it with your boss!
 
 ---
 
