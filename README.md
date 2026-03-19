@@ -2,7 +2,7 @@
 Hola! · お疲れ様です！ · مرحبًا  
 
 **Full-Stack Engineer & Data Specialist building scalable, production-ready systems.**
- Portfolio --> https://hishamkhashman.dev
+ --> https://hishamkhashman.dev
 
 I build SaaS platforms, Web Apps, analytics systems, and ML-powered tools using:  
 Python • Ruby on Rails • JavaScript • SQL • Machine Learning
