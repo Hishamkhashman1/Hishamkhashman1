@@ -1,21 +1,21 @@
 # Hi, I'm Hisham   
 Hola! · お疲れ様です！ · مرحبًا  
 
-Consutlant & Full-Stack Engineer focused on backend and data-driven applications.
+Full-Stack Engineer & Data Specialist building scalable, production-ready systems.
 
 I build SaaS platforms, Web Apps, analytics systems, and ML-powered tools using:  
 Python • Ruby on Rails • JavaScript • SQL • Machine Learning
-
+Portfolio --> https://hishamkhashman.dev
 ---
 
-### 🚀 Current Projects
+### Current Projects
 - [**LinguaLogic**](https://github.com/Hishamkhashman1/lingualogic) – gamified coding learning platform  
 - [**Forecast Alpha**](https://github.com/Hishamkhashman1/forecast-alpha) – SaaS for plug-and-play data analytics for SMBs
 - [**SEO Cyber Tool**](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) – Get the best SEO score report out there and share it with your boss!
 
 ---
 
-### 🧠 Selected Work
+### Selected Work
 - **Fraud Detection Dashboard** – identified real fraud cases using anomaly detection models (Python + React) *(confidential – NDA)*  
 - [**Stock Forecasting LSTM**](https://github.com/Hishamkhashman1/stock-forecasting-lstm) – time-series prediction pipeline using deep learning  
 - [**ML Data Analysis Suite**](https://github.com/Hishamkhashman1/ml-data-analysis-suite) – Python-based analytics and automated reporting tool  
