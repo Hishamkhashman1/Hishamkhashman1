@@ -1,11 +1,13 @@
 # Hi, I'm Hisham   
 Hola! · お疲れ様です！ · مرحبًا  
 
-Full-Stack Engineer & Data Specialist building scalable, production-ready systems.
+**Full-Stack Engineer & Data Specialist building scalable, production-ready systems.**
+Portfolio --> https://hishamkhashman.dev
 
 I build SaaS platforms, Web Apps, analytics systems, and ML-powered tools using:  
 Python • Ruby on Rails • JavaScript • SQL • Machine Learning
-Portfolio --> https://hishamkhashman.dev
+
+
 ---
 
 ### Current Projects
@@ -25,7 +27,7 @@ Portfolio --> https://hishamkhashman.dev
 
 ---
 
-### 🧩 Background
+###  Background
 10+ years in finance & consulting (PwC, Accenture) → now building software with strong business context.
 
 ---
