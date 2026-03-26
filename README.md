@@ -1,7 +1,7 @@
 **Full-Stack Engineer & Data Specialist building scalable, production-ready systems.**
  --> https://hishamkhashman.dev
 
-I build SaaS platforms, web apps, analytics systems, and ML-powered tools using:  
+I build software, web apps, analytics systems, and ML-powered tools using:  
 Python • Ruby on Rails • JavaScript • SQL • Machine Learning
 
 
