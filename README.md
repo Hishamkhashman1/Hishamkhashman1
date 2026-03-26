@@ -10,7 +10,7 @@ Python • Ruby on Rails • JavaScript • SQL • Machine Learning
 ### Current Projects
 - [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) – gamified coding learning platform  
 - [**Forecast Alpha**](https://github.com/Hishamkhashman1/forecast-alpha) – SaaS for plug-and-play data analytics for SMBs
-- [**SEO Cyber Tool**](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) – Get the best SEO score report out there and share it with your boss!
+
 
 ---
 
@@ -20,7 +20,8 @@ Python • Ruby on Rails • JavaScript • SQL • Machine Learning
 - [**ML Data Analysis Suite**](https://github.com/Hishamkhashman1/ml-data-analysis-suite) – Python-based analytics and automated reporting tool  
 - [**Who’s Snooping**](https://github.com/Hishamkhashman1/whos_snooping) – local IP detection and network monitoring tool  
 - [**World Cup 2026 Tracker**](https://github.com/Hishamkhashman1/wc26-tracker) – real-time tracking web app
-- [**Movie Favorite Watch List App**](https://hisham-watch-list-aad8d178a962.herokuapp.com/) – deployed app with API integration 
+- [**Movie Favorite Watch List App**](https://hisham-watch-list-aad8d178a962.herokuapp.com/) – deployed app with API integration
+- [**SEO Cyber Tool**](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) – Get the best SEO score report out there and share it with your boss!
 
 ---
 
