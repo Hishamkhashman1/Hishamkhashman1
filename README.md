@@ -1,6 +1,3 @@
-# Hi, I'm Hisham   
-Hola! · お疲れ様です！ · مرحبًا  
-
 **Full-Stack Engineer & Data Specialist building scalable, production-ready systems.**
  --> https://hishamkhashman.dev
 
