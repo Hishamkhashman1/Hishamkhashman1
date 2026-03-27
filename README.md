@@ -1,4 +1,5 @@
-<h3>Full-Stack Engineer & Data Specialist building scalable, production-ready systems</h3>
+<h3>Full-Stack Engineer & Data Specialist</h3>
+<p>Building scalable, production-ready systems.</p>
 
 <p>
   <a href="https://hishamkhashman.dev">
@@ -6,7 +7,10 @@
   </a>
 </p>
 
-I build software, web apps, analytics systems, and ML-powered tools using:  
+<p>
+I build software, web apps, analytics systems, and ML-powered tools using:
+</p>
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby &nbsp;
@@ -15,7 +19,6 @@ I build software, web apps, analytics systems, and ML-powered tools using:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> SQL &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux
 </p>
-
 
 ---
 
