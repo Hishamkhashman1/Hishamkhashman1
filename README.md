@@ -1,7 +1,7 @@
 <h3>Full-Stack Engineer & Data Specialist</h3>
 <p>Building scalable, production-ready systems.</p>
 
-<p align="center">
+<p>
   <a href="https://hishamkhashman.dev">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
