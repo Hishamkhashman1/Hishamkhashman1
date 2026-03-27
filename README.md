@@ -1,4 +1,4 @@
-<h3>Full-Stack Engineer & Data Specialist</h3>
+<h3>Full-Stack Engineer</h3>
 <p>Building scalable, production-ready systems.</p>
 
 <p>
