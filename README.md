@@ -2,7 +2,7 @@
  --> https://hishamkhashman.dev
 
 I build software, web apps, analytics systems, and ML-powered tools using:  
-Python • Ruby on Rails • JavaScript • SQL • Machine Learning
+Python • Ruby on Rails • JavaScript • SQL • Machine Learning • Linux 
 
 
 ---
