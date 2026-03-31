@@ -1,3 +1,4 @@
+<h2>Hisham Khashman</h2>
 <h3>Full-Stack Engineer</h3>
 <p>Building scalable, production-ready systems.</p>
 
@@ -20,29 +21,28 @@ I build software, web apps, analytics systems, and ML-powered tools using:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> Linux
 </p>
 
----
+<br>
 
-### Current Projects
+### 🚀 Current Projects
 - [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) – gamified coding learning platform  
-- [**Forecast Alpha**](https://www.forecastalpha.it.com/) –  data analytics for SMBs
+- [**Forecast Alpha**](https://www.forecastalpha.it.com/) – data analytics SaaS for SMBs  
 
+<br>
 
----
+### 🧠 Selected Work
+- **Fraud Detection Dashboard** – real fraud cases using anomaly detection (Python + React) *(confidential)*  
+- [Stock Forecasting LSTM](https://github.com/Hishamkhashman1/stock-forecasting-lstm)  
+- [ML Data Analysis Suite](https://github.com/Hishamkhashman1/ml-data-analysis-suite)  
+- [Who’s Snooping](https://github.com/Hishamkhashman1/whos_snooping)  
+- [World Cup 2026 Tracker](https://github.com/Hishamkhashman1/wc26-tracker)  
+- [Movie Watch List](https://hisham-watch-list-aad8d178a962.herokuapp.com/)  
+- [SEO Cyber Tool](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/)  
 
-### Selected Work
-- **Fraud Detection Dashboard** – identified real fraud cases using anomaly detection models (Python + React) *(confidential – NDA)*  
-- [**Stock Forecasting LSTM**](https://github.com/Hishamkhashman1/stock-forecasting-lstm) – time-series prediction pipeline using deep learning  
-- [**ML Data Analysis Suite**](https://github.com/Hishamkhashman1/ml-data-analysis-suite) – Python-based analytics and automated reporting tool  
-- [**Who’s Snooping**](https://github.com/Hishamkhashman1/whos_snooping) – local IP detection and network monitoring tool  
-- [**World Cup 2026 Tracker**](https://github.com/Hishamkhashman1/wc26-tracker) – real-time tracking web app
-- [**Movie Favorite Watch List App**](https://hisham-watch-list-aad8d178a962.herokuapp.com/) – deployed app with API integration
-- [**SEO Cyber Tool**](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) – Get the best SEO score report out there and share it with your boss!
+<br>
 
----
+### 📊 Background
+10+ years in consulting (PwC, Accenture) → now building software & data products.
 
-###  Background
-10+ years in finance & consulting (PwC, Accenture) → now building software with strong business context.
-
----
+<br>
 
 📫 **hisham.khashman@gmail.com**
