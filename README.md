@@ -23,13 +23,13 @@ I build software, web apps, analytics systems, and ML-powered tools using:
 
 <br>
 
-### 🚀 Current Projects
+### Current Projects
 - [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) – gamified coding learning platform  
 - [**Forecast Alpha**](https://www.forecastalpha.it.com/) – Intelligent data analytics for SMBs  
 
 <br>
 
-### 🧠 Selected Work
+### Selected Work
 - **Fraud Detection Dashboard** – real fraud cases using anomaly detection (Python + React) *(confidential)*  
 - [Stock Forecasting LSTM](https://github.com/Hishamkhashman1/stock-forecasting-lstm)  
 - [ML Data Analysis Suite](https://github.com/Hishamkhashman1/ml-data-analysis-suite)  
@@ -40,7 +40,7 @@ I build software, web apps, analytics systems, and ML-powered tools using:
 
 <br>
 
-### 📊 Background
+### Background
 10+ years in consulting (PwC, Accenture) → now building software & data products.
 
 <br>
