@@ -25,7 +25,7 @@ I build software, web apps, analytics systems, and ML-powered tools using:
 
 ### 🚀 Current Projects
 - [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) – gamified coding learning platform  
-- [**Forecast Alpha**](https://www.forecastalpha.it.com/) – data analytics SaaS for SMBs  
+- [**Forecast Alpha**](https://www.forecastalpha.it.com/) – Intelligent data analytics for SMBs  
 
 <br>
 
