@@ -24,6 +24,7 @@ I build software, web apps, analytics systems, and ML-powered tools using:
 <br>
 
 ### Current Projects
+- [**Kifor-Match-MVP**](https://github.com/kwood6319/kifor-match) – Kifor Match is an MVP for a Japanese Charity that matches donors and charities to help them fulfill their needs.
 - [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) – gamified coding learning platform  
 - [**Forecast Alpha**](https://www.forecastalpha.it.com/) – Intelligent data analytics for SMBs  
 
