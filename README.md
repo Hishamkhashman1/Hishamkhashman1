@@ -1,5 +1,5 @@
 <h1>Hisham Khashman</h1>
-<p><strong>Full-Stack Engineer</strong> building software, data systems, and ML-powered tools.</p>
+<p><strong>Full-Stack Engineer</strong> building software, data systems, and AI-powered tools.</p>
 
 <p>
   From consulting and finance to production-ready web applications, APIs, and analytics products.
