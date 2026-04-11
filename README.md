@@ -25,7 +25,7 @@ I build software, web apps, analytics systems, and ML-powered tools using:
 
 ### Current Projects
 - [**Kifor-Match-MVP**](https://github.com/kwood6319/kifor-match) – Kifor Match is an MVP for a Japanese Charity that matches donors and charities to help them fulfill their needs.
-- [**Rick and Morty API**](https://github.com/Hishamkhashman1/rick-and-morty-API) – Custom REST API currently building with FastAPI, featuring filtering, pagination, and scalable backend structure  
+- [**Rick and Morty API**](https://github.com/Hishamkhashman1/rick-and-morty-API) – Custom REST API currently building with FastAPI, featuring filtering, pagination, and scalable backend structure.. (will update with live link once shipped. Wuba laba dub dub!)
 - [**Forecast Alpha**](https://www.forecastalpha.it.com/) – Intelligent data analytics for SMBs  
 
 <br>
