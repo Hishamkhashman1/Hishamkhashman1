@@ -2,7 +2,7 @@
 <p><strong>Full-Stack Engineer</strong> building software, data systems, and AI-powered tools.</p>
 
 <p>
-  From consulting and finance to production-ready web applications, APIs, and analytics products.
+  From consulting and finance to production-ready Full-Stack web applications, APIs, and analytics products.
 </p>
 
 <p>
@@ -25,24 +25,24 @@
 </p>
 
 ## Current Projects
-- [**Kifor-Match-MVP**](https://github.com/kwood6319/kifor-match) — MVP for a Japanese charity platform matching donors with charities.
-- [**Rick and Morty API**](https://github.com/Hishamkhashman1/rick-and-morty-API) — Public REST API built with FastAPI for character, episode, and location data. *(In development)*
+- [**Kifor-Match-MVP**](https://github.com/kwood6319/kifor-match) — Donor–charity matching MVP built for a Japanese nonprofit.
+- [**Rick and Morty API**](https://github.com/Hishamkhashman1/rick-and-morty-API) — FastAPI + PostgreSQL API for Rick and Morty character data.
 - [**Forecast Alpha**](https://www.forecastalpha.it.com/) — Data analytics and AI solutions for SMBs.
 
 ## Selected Work
 
 ### Full-Stack
 - [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) — Gamified coding learning platform.
-- [World Cup 2026 Tracker](https://hishamkhashman1.github.io/wc26-tracker/)
-- [Movie Watch List](https://hisham-watch-list-aad8d178a962.herokuapp.com/)
-- [SEO Cyber Tool](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/)
+- [World Cup 2026 Tracker](https://hishamkhashman1.github.io/wc26-tracker/) — Real-time tracking web app.
+- [Movie Watch List](https://hisham-watch-list-aad8d178a962.herokuapp.com/) — Rails app with API integration.
+- [SEO Cyber Tool](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) — SEO score report tool built to share with teams.
 
 ### Data
-- [Stock Forecasting LSTM](https://github.com/Hishamkhashman1/stock-forecasting-lstm)
-- [ML Data Analysis Suite](https://github.com/Hishamkhashman1/ml-data-analysis-suite)
+- [Stock Forecasting LSTM](https://github.com/Hishamkhashman1/stock-forecasting-lstm) — Time-series prediction pipeline using deep learning.
+- [ML Data Analysis Suite](https://github.com/Hishamkhashman1/ml-data-analysis-suite) — Python-based analytics and automated reporting tool.
 
 ### Security & Network Tools
-- [Who’s Snooping](https://github.com/Hishamkhashman1/whos_snooping)
+- [Who’s Snooping](https://github.com/Hishamkhashman1/whos_snooping) — Local IP detection and network monitoring tool.
 
 ## Background
 10+ years across consulting, finance, operations, and technology — now focused on building software and data products.
