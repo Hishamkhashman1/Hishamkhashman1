@@ -33,7 +33,6 @@
 
 ### Full-Stack
 - [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) — Gamified coding learning platform.
-- [Who’s Snooping](https://github.com/Hishamkhashman1/whos_snooping)
 - [World Cup 2026 Tracker](https://hishamkhashman1.github.io/wc26-tracker/)
 - [Movie Watch List](https://hisham-watch-list-aad8d178a962.herokuapp.com/)
 - [SEO Cyber Tool](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/)
@@ -42,6 +41,9 @@
 - **Fraud Detection Dashboard** — Real fraud cases using anomaly detection *(Python + React, confidential)*.
 - [Stock Forecasting LSTM](https://github.com/Hishamkhashman1/stock-forecasting-lstm)
 - [ML Data Analysis Suite](https://github.com/Hishamkhashman1/ml-data-analysis-suite)
+
+### Security & Network Tools
+- [Who’s Snooping](https://github.com/Hishamkhashman1/whos_snooping)
 
 ## Background
 10+ years across consulting, finance, operations, and technology — now focused on building software and data products.
