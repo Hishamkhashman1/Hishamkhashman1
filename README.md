@@ -38,7 +38,6 @@
 - [SEO Cyber Tool](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/)
 
 ### Data
-- **Fraud Detection Dashboard** — Real fraud cases using anomaly detection *(Python + React, confidential)*.
 - [Stock Forecasting LSTM](https://github.com/Hishamkhashman1/stock-forecasting-lstm)
 - [ML Data Analysis Suite](https://github.com/Hishamkhashman1/ml-data-analysis-suite)
 
