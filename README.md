@@ -32,7 +32,7 @@
 ## Selected Work
 
 ### Full-Stack
-- [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) — Gamified coding learning platform.
+- [LinguaLogic](https://lingualogic-4a902f58893e.herokuapp.com/) — Gamified coding learning platform.
 - [World Cup 2026 Tracker](https://hishamkhashman1.github.io/wc26-tracker/) — Real-time tracking web app.
 - [Movie Watch List](https://hisham-watch-list-aad8d178a962.herokuapp.com/) — Rails app with API integration.
 - [SEO Cyber Tool](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) — SEO score report tool built to share with teams.
