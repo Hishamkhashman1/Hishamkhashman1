@@ -3,7 +3,7 @@
 <h1 align="center">Hisham Khashman</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer</strong> building software, data systems, and AI-powered tools.
+  <strong>Full-Stack Engineer</strong> building software, Web applications, data systems, and AI-powered tools.
 </p>
 
 <p align="center">
