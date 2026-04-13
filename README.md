@@ -1,19 +1,25 @@
 <h1 align="center">Hisham Khashman</h1>
+
 <p align="center">
   <strong>Full-Stack Engineer</strong> building software, data systems, and AI-powered tools.
 </p>
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hishamkhashman1&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hishamkhashman1&layout=compact&hide_border=true&theme=tokyonight" height="160" />
+  From consulting and finance to production-ready full-stack web applications, APIs, and analytics products.
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hishamkhashman1&show_icons=true&hide_border=true" height="160" />
+  <a href="https://hishamkhashman.dev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/hishamkhashman/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hishamkhashman1&layout=compact&hide_border=true" height="160" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hishamkhashman1&theme=github" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hishamkhashman1&theme=github" height="160" />
 </p>
 
 <p align="center">
@@ -21,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishamkhashman1&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishamkhashman1&theme=github" />
 </p>
 
 ---
