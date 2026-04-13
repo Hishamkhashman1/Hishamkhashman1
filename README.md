@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header"/>
+</p>
+
 <h1 align="center">Hisham Khashman</h1>
 
 <p align="center">
   <strong>Full-Stack Engineer</strong> building software, data systems, and AI-powered tools.
 </p>
-
 
 <p align="center">
   <a href="https://hishamkhashman.dev">
@@ -14,13 +17,12 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hishamkhashman1&theme=github" height="160" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hishamkhashman1&theme=github" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hishamkhashman1&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Hishamkhashman1&hide_border=true" height="160" />
 </p>
 
 <p align="center">
