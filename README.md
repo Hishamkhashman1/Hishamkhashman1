@@ -6,12 +6,8 @@
 
 
 <p align="center">
-  <a href="https://hishamkhashman.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/hishamkhashman/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hishamkhashman1&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hishamkhashman1&layout=compact&hide_border=true&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
