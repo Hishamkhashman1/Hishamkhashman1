@@ -4,9 +4,6 @@
   <strong>Full-Stack Engineer</strong> building software, data systems, and AI-powered tools.
 </p>
 
-<p align="center">
-  From consulting and finance to production-ready full-stack web applications, APIs, and analytics products.
-</p>
 
 <p align="center">
   <a href="https://hishamkhashman.dev">
