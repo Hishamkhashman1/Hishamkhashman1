@@ -46,6 +46,7 @@
 ## Current Projects
 
 - [**Kifor-Match-MVP**](https://github.com/kwood6319/kifor-match) — Donor–charity matching MVP built for a Japanese nonprofit. **WIP**
+- [**BugSquancher**](https://github.com/Hishamkhashman1/bug-squancher) —  Squanch the bug. Ship the fix.Coming soon! your go to CLI debugger!
 - [**Rick and Morty API**](https://github.com/Hishamkhashman1/rick-and-morty-API) — FastAPI + PostgreSQL API for Rick and Morty character data.
 - [**Forecast Alpha**](https://www.forecastalpha.it.com/) — Data analytics and AI solutions for SMBs.
 
