@@ -1,11 +1,13 @@
-<h1>Hisham Khashman</h1>
-<p><strong>Full-Stack Engineer</strong> building software, data systems, and AI-powered tools.</p>
-
-<p>
-  From consulting and finance to production-ready Full-Stack web applications, APIs, and analytics products.
+<h1 align="center">Hisham Khashman</h1>
+<p align="center">
+  <strong>Full-Stack Engineer</strong> building software, data systems, and AI-powered tools.
 </p>
 
-<p>
+<p align="center">
+  From consulting and finance to production-ready full-stack web applications, APIs, and analytics products.
+</p>
+
+<p align="center">
   <a href="https://hishamkhashman.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge" />
   </a>
@@ -14,7 +16,24 @@
   </a>
 </p>
 
-<p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hishamkhashman1&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hishamkhashman1&layout=compact&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hishamkhashman1&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishamkhashman1&theme=default" />
+</p>
+
+---
+
+## Tech Stack
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18"/> Python &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="18"/> FastAPI &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="18"/> Ruby &nbsp;
@@ -24,27 +43,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18"/> Linux
 </p>
 
+---
+
 ## Current Projects
+
 - [**Kifor-Match-MVP**](https://github.com/kwood6319/kifor-match) — Donor–charity matching MVP built for a Japanese nonprofit. **WIP**
 - [**Rick and Morty API**](https://github.com/Hishamkhashman1/rick-and-morty-API) — FastAPI + PostgreSQL API for Rick and Morty character data.
 - [**Forecast Alpha**](https://www.forecastalpha.it.com/) — Data analytics and AI solutions for SMBs.
 
+---
+
 ## Selected Work
 
 ### Full-Stack
-- [LinguaLogic](https://lingualogic-4a902f58893e.herokuapp.com/) — Gamified coding learning platform.
-- [World Cup 2026 Tracker](https://hishamkhashman1.github.io/wc26-tracker/) — Real-time tracking web app.
-- [Movie Watch List](https://hisham-watch-list-aad8d178a962.herokuapp.com/) — Rails app with API integration.
-- [SEO Cyber Tool](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) — SEO score report tool built to share with teams.
+- [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) — Gamified coding learning platform.
+- [**World Cup 2026 Tracker**](https://hishamkhashman1.github.io/wc26-tracker/) — Real-time tracking web app.
+- [**Movie Watch List**](https://hisham-watch-list-aad8d178a962.herokuapp.com/) — Rails app with API integration.
+- [**SEO Cyber Tool**](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) — SEO score report tool built to share with teams.
 
 ### Data
-- [Stock Forecasting LSTM](https://github.com/Hishamkhashman1/stock-forecasting-lstm) — Time-series prediction pipeline using deep learning.
-- [ML Data Analysis Suite](https://github.com/Hishamkhashman1/ml-data-analysis-suite) — Python-based analytics and automated reporting tool.
+- [**Stock Forecasting LSTM**](https://github.com/Hishamkhashman1/stock-forecasting-lstm) — Time-series prediction pipeline using deep learning.
+- [**ML Data Analysis Suite**](https://github.com/Hishamkhashman1/ml-data-analysis-suite) — Python-based analytics and automated reporting tool.
 
 ### Security & Network Tools
-- [Who’s Snooping](https://github.com/Hishamkhashman1/whos_snooping) — Local IP detection and network monitoring tool.
+- [**Who’s Snooping**](https://github.com/Hishamkhashman1/whos_snooping) — Local IP detection and network monitoring tool.
+
+---
 
 ## Background
+
 10+ years across consulting, finance, operations, and technology — now focused on building software and data products.
+
+---
+
+## Contact
 
 📫 **hisham.khashman@gmail.com**
