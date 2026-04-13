@@ -18,13 +18,13 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hishamkhashman1&theme=github" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hishamkhashman1&theme=github" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Hishamkhashman1&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hishamkhashman1&theme=github&v=AUTO_REFRESH" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hishamkhashman1&theme=github&v=AUTO_REFRESH" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Hishamkhashman1&hide_border=true&v=AUTO_REFRESH" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishamkhashman1&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishamkhashman1&theme=github&v=AUTO_REFRESH" />
 </p>
 
 ---
