@@ -1,9 +1,8 @@
-
-
 <h1 align="center">Hisham Khashman</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer</strong> building software, web applications, data systems, and AI-powered tools.
+  <strong>Full-Stack Engineer</strong><br/>
+  Building software, web applications, data systems, and AI-powered tools.
 </p>
 
 <p align="center">
@@ -43,85 +42,95 @@
 
 ---
 
-## Selected Projects
+## Featured Projects
 
+<table>
+<tr>
+<td width="50%">
 
-### Current Work
+### Rick and Morty API
+FastAPI + PostgreSQL API built and deployed for public usage.
 
-#### Kifor Match (MVP)
+Live: https://rick-and-morty-api-9871cc72.fastapicloud.dev/  
+Repository: https://github.com/Hishamkhashman1/rick-and-morty-api
+
+</td>
+<td width="50%">
+
+### Forecast Alpha
+AI-powered revenue intelligence platform focused on forecasting and anomaly detection.
+
+Live: https://www.forecastalpha.it.com/
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Work
+
+### Kifor Match (MVP)
 Donor–charity matching platform for a Japanese nonprofit  
 Repository: https://github.com/kwood6319/kifor-match  
 Live: Coming soon
 
 ---
 
-#### BugSquancher
-CLI tool that captures failed shell commands and suggests fixes  
+### BugSquancher
+CLI tool that captures failed shell commands and suggests fixes in real time  
 Repository: https://github.com/Hishamkhashman1/bug-squancher  
 Live: Coming soon
 
 ---
 
-#### Rick and Morty API
-FastAPI + PostgreSQL API for character data  
-Live: https://rick-and-morty-api-9871cc72.fastapicloud.dev/  
-Repository: https://github.com/Hishamkhashman1/rick-and-morty-api
+## Full-Stack Applications
 
----
-
-#### Forecast Alpha
-AI-powered revenue intelligence platform  
-Live: https://www.forecastalpha.it.com/
-
----
-
-### Full-Stack Applications
-
-#### LinguaLogic
+### LinguaLogic
 Gamified coding learning platform  
 Live: https://lingualogic-4a902f58893e.herokuapp.com/  
 Repository: https://github.com/Hishamkhashman1/lingualogic
 
 ---
 
-#### World Cup 2026 Tracker
+### World Cup 2026 Tracker
 Real-time tracking web app  
 Live: https://hishamkhashman1.github.io/wc26-tracker/  
 Repository: https://github.com/Hishamkhashman1/wc26-tracker
 
 ---
 
-#### Movie Watch List
+### Movie Watch List
 Rails app with API integration  
 Live: https://hisham-watch-list-aad8d178a962.herokuapp.com/  
 Repository: Private
 
 ---
 
-#### SEO Cyber Tool
+### SEO Cyber Tool
 SEO score reporting tool  
 Live: https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/  
 Repository: https://github.com/Hishamkhashman1/seo-tool
 
 ---
 
-### Data & ML
+## Data & Machine Learning
 
-#### Stock Forecasting LSTM
+### Stock Forecasting LSTM
 Time-series prediction pipeline using deep learning  
 Repository: https://github.com/Hishamkhashman1/stock-forecasting-lstm
 
 ---
 
-#### ML Data Analysis Suite
+### ML Data Analysis Suite
 Python analytics and automated reporting tool  
 Repository: https://github.com/Hishamkhashman1/ml-data-analysis-suite
 
 ---
 
-### Security & Network
+## Security & Network
 
-#### Who’s Snooping
+### Who’s Snooping
 Local IP detection and network monitoring tool  
 Repository: https://github.com/Hishamkhashman1/whos_snooping
 
@@ -129,10 +138,11 @@ Repository: https://github.com/Hishamkhashman1/whos_snooping
 
 ## Background
 
-10+ years across consulting, finance, operations, and technology — now focused on building software and data products.
+10+ years across consulting, finance, operations, and technology.  
+Now focused on building production-ready software and data products.
 
 ---
 
 ## Contact
 
-📫 **hisham.khashman@gmail.com**
+hisham.khashman@gmail.com
