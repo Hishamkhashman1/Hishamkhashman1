@@ -24,8 +24,8 @@
 ### Featured
 
 **→ Rick and Morty API**  
-  ↳ FastAPI + PostgreSQL API deployed for public usage  
-  [Deployed link](https://rick-and-morty-api-9871cc72.fastapicloud.dev/) · [Repository](https://github.com/Hishamkhashman1/rick-and-morty-api)
+    ↳ FastAPI + PostgreSQL API deployed for public usage  
+    [Deployed link](https://rick-and-morty-api-9871cc72.fastapicloud.dev/) · [Repository](https://github.com/Hishamkhashman1/rick-and-morty-api)
   
 
 
