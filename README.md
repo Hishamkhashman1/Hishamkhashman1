@@ -34,14 +34,14 @@ AI-powered revenue intelligence platform (forecasting + anomaly detection)
 **Kifor Match (MVP)**  
 Donor–charity matching platform for a Japanese nonprofit  
 [Repository](https://github.com/kwood6319/kifor-match)  
-Deployed link: Coming soon
+Deployed link: Coming soon (WIP)
 
 ---
 
 **BugSquancher**  
 CLI tool that captures failed commands and suggests fixes  
 [Repository](https://github.com/Hishamkhashman1/bug-squancher)  
-Deployed link: Coming soon
+Deployed link: Coming soon (WIP)
 
 ---
 
@@ -94,6 +94,7 @@ Analytics and automated reporting tool
 **Who’s Snooping**  
 Local network monitoring tool  
 [Repository](https://github.com/Hishamkhashman1/whos_snooping)
+
 ---
 
 ## Background
