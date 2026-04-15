@@ -23,6 +23,10 @@
 
 ### Featured
 
+**→ BugSquancher**  
+↳ CLI tool that captures failed commands and suggests fixes  
+[Repo](https://github.com/Hishamkhashman1/bug-squancher) · Deployed PIP , check REPO
+
 **→ Rick and Morty API**  
 ↳ FastAPI + PostgreSQL API deployed for public usage  
 [Live](https://rick-and-morty-api-9871cc72.fastapicloud.dev/) · [Repo](https://github.com/Hishamkhashman1/rick-and-morty-api)
@@ -37,9 +41,6 @@
 ↳ Donor–charity matching platform for a Japanese nonprofit  
 [Repo](https://github.com/kwood6319/kifor-match) · Live: Coming soon (WIP)
 
-**→ BugSquancher**  
-↳ CLI tool that captures failed commands and suggests fixes  
-[Repo](https://github.com/Hishamkhashman1/bug-squancher) · Live: Coming soon (WIP)
 
 ### Applications
 
