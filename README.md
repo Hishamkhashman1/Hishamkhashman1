@@ -1,13 +1,13 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python"/>
-  <img src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby"/>
-  <img src="https://img.shields.io/badge/Rails-informational?style=flat&logo=rubyonrails"/>
-  <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/>
 </p>
 
 ---
