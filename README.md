@@ -57,7 +57,6 @@ Real-time tracking web app
 [Deployed link](https://hishamkhashman1.github.io/wc26-tracker/)  
 [Repository](https://github.com/Hishamkhashman1/wc26-tracker)
 
----
 
 **Movie Watch List**  
 Rails app with API integration  
