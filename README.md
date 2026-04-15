@@ -18,14 +18,14 @@
 
 **Rick and Morty API**  
 FastAPI + PostgreSQL API deployed for public usage  
-Live: https://rick-and-morty-api-9871cc72.fastapicloud.dev/  
-Repo: https://github.com/Hishamkhashman1/rick-and-morty-api
+[Deployed link](https://rick-and-morty-api-9871cc72.fastapicloud.dev/)  
+[Repository](https://github.com/Hishamkhashman1/rick-and-morty-api)
 
 ---
 
 **Forecast Alpha**  
 AI-powered revenue intelligence platform (forecasting + anomaly detection)  
-Live: https://www.forecastalpha.it.com/
+[Deployed link](https://www.forecastalpha.it.com/)
 
 ---
 
@@ -33,15 +33,15 @@ Live: https://www.forecastalpha.it.com/
 
 **Kifor Match (MVP)**  
 Donor–charity matching platform for a Japanese nonprofit  
-Repo: https://github.com/kwood6319/kifor-match  
-Live: Coming soon
+[Repository](https://github.com/kwood6319/kifor-match)  
+Deployed link: Coming soon
 
 ---
 
 **BugSquancher**  
 CLI tool that captures failed commands and suggests fixes  
-Repo: https://github.com/Hishamkhashman1/bug-squancher  
-Live: Coming soon
+[Repository](https://github.com/Hishamkhashman1/bug-squancher)  
+Deployed link: Coming soon
 
 ---
 
@@ -49,29 +49,29 @@ Live: Coming soon
 
 **LinguaLogic**  
 Gamified coding learning platform  
-Live: https://lingualogic-4a902f58893e.herokuapp.com/  
-Repo: https://github.com/Hishamkhashman1/lingualogic
+[Deployed link](https://lingualogic-4a902f58893e.herokuapp.com/)  
+[Repository](https://github.com/Hishamkhashman1/lingualogic)
 
 ---
 
 **World Cup 2026 Tracker**  
 Real-time tracking web app  
-Live: https://hishamkhashman1.github.io/wc26-tracker/  
-Repo: https://github.com/Hishamkhashman1/wc26-tracker
+[Deployed link](https://hishamkhashman1.github.io/wc26-tracker/)  
+[Repository](https://github.com/Hishamkhashman1/wc26-tracker)
 
 ---
 
 **Movie Watch List**  
 Rails app with API integration  
-Live: https://hisham-watch-list-aad8d178a962.herokuapp.com/  
-Repo: Private
+[Deployed link](https://hisham-watch-list-aad8d178a962.herokuapp.com/)  
+Repository: Private
 
 ---
 
 **SEO Cyber Tool**  
 SEO score reporting tool  
-Live: https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/  
-Repo: https://github.com/Hishamkhashman1/seo-tool
+[Deployed link](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/)  
+[Repository](https://github.com/Hishamkhashman1/seo-tool)
 
 ---
 
@@ -79,22 +79,21 @@ Repo: https://github.com/Hishamkhashman1/seo-tool
 
 **Stock Forecasting LSTM**  
 Time-series prediction pipeline  
-Repo: https://github.com/Hishamkhashman1/stock-forecasting-lstm
+[Repository](https://github.com/Hishamkhashman1/stock-forecasting-lstm)
 
 ---
 
 **ML Data Analysis Suite**  
 Analytics and automated reporting tool  
-Repo: https://github.com/Hishamkhashman1/ml-data-analysis-suite
+[Repository](https://github.com/Hishamkhashman1/ml-data-analysis-suite)
 
 ---
 
 ### Security
 
-**Who’s Snooping**
+**Who’s Snooping**  
 Local network monitoring tool  
-Repo: https://github.com/Hishamkhashman1/whos_snooping
-
+[Repository](https://github.com/Hishamkhashman1/whos_snooping)
 ---
 
 ## Background
