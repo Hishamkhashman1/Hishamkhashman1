@@ -42,124 +42,95 @@
 </p>
 
 ---
-## Projects
-<table>
-<tr>
-<td width="50%">
+---
 
-### Kifor Match (MVP)
-Donor–charity matching platform for a Japanese nonprofit.  
-<br/><br/>
-Repository: <a href="https://github.com/kwood6319/kifor-match">Link</a>  
+## Selected Projects
+
+<p align="center">
+A selection of products, tools, and systems I’ve built and deployed.
+</p>
+
+---
+
+### Current Work
+
+#### Kifor Match (MVP)
+Donor–charity matching platform for a Japanese nonprofit  
+Repository: https://github.com/kwood6319/kifor-match  
 Live: Coming soon
 
-</td>
-<td width="50%">
+---
 
-### BugSquancher
-CLI tool that captures failed shell commands and suggests fixes.  
-<br/><br/>
-Repository: <a href="https://github.com/Hishamkhashman1/bug-squancher">Link</a>  
+#### BugSquancher
+CLI tool that captures failed shell commands and suggests fixes  
+Repository: https://github.com/Hishamkhashman1/bug-squancher  
 Live: Coming soon
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+#### Rick and Morty API
+FastAPI + PostgreSQL API for character data  
+Live: https://rick-and-morty-api-9871cc72.fastapicloud.dev/  
+Repository: https://github.com/Hishamkhashman1/rick-and-morty-api
 
-### Rick and Morty API
-FastAPI + PostgreSQL API for character data.  
-<br/><br/>
-Live: <a href="https://rick-and-morty-api-9871cc72.fastapicloud.dev/">Link</a>  
-Repository: <a href="https://github.com/Hishamkhashman1/rick-and-morty-api">Link</a>
+---
 
-</td>
-<td width="50%">
+#### Forecast Alpha
+AI-powered revenue intelligence platform  
+Live: https://www.forecastalpha.it.com/
 
-### Forecast Alpha
-AI-powered revenue intelligence platform.  
-<br/><br/>
-Live: <a href="https://www.forecastalpha.it.com/">Link</a>
+---
 
-</td>
-</tr>
+### Full-Stack Applications
 
-<tr>
-<td width="50%">
+#### LinguaLogic
+Gamified coding learning platform  
+Live: https://lingualogic-4a902f58893e.herokuapp.com/  
+Repository: https://github.com/Hishamkhashman1/lingualogic
 
-### LinguaLogic
-Gamified coding learning platform.  
-<br/><br/>
-Live: <a href="https://lingualogic-4a902f58893e.herokuapp.com/">Link</a>  
-Repository: <a href="https://github.com/Hishamkhashman1/lingualogic">Link</a>
+---
 
-</td>
-<td width="50%">
+#### World Cup 2026 Tracker
+Real-time tracking web app  
+Live: https://hishamkhashman1.github.io/wc26-tracker/  
+Repository: https://github.com/Hishamkhashman1/wc26-tracker
 
-### World Cup 2026 Tracker
-Real-time tracking web app.  
-<br/><br/>
-Live: <a href="https://hishamkhashman1.github.io/wc26-tracker/">Link</a>  
-Repository: <a href="https://github.com/Hishamkhashman1/wc26-tracker">Link</a>
+---
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Movie Watch List
-Rails app with API integration.  
-<br/><br/>
-Live: <a href="https://hisham-watch-list-aad8d178a962.herokuapp.com/">Link</a>  
+#### Movie Watch List
+Rails app with API integration  
+Live: https://hisham-watch-list-aad8d178a962.herokuapp.com/  
 Repository: Private
 
-</td>
-<td width="50%">
+---
 
-### SEO Cyber Tool
-SEO score reporting tool.  
-<br/><br/>
-Live: <a href="https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/">Link</a>  
-Repository: <a href="https://github.com/Hishamkhashman1/seo-tool">Link</a>
+#### SEO Cyber Tool
+SEO score reporting tool  
+Live: https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/  
+Repository: https://github.com/Hishamkhashman1/seo-tool
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### Data & ML
 
-### Stock Forecasting LSTM
-Time-series prediction pipeline using deep learning.  
-<br/><br/>
-Repository: <a href="https://github.com/Hishamkhashman1/stock-forecasting-lstm">Link</a>
+#### Stock Forecasting LSTM
+Time-series prediction pipeline using deep learning  
+Repository: https://github.com/Hishamkhashman1/stock-forecasting-lstm
 
-</td>
-<td width="50%">
+---
 
-### ML Data Analysis Suite
-Python analytics + automated reporting tool.  
-<br/><br/>
-Repository: <a href="https://github.com/Hishamkhashman1/ml-data-analysis-suite">Link</a>
+#### ML Data Analysis Suite
+Python analytics and automated reporting tool  
+Repository: https://github.com/Hishamkhashman1/ml-data-analysis-suite
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### Security & Network
 
-### Who’s Snooping
-Local IP detection and network monitoring tool.  
-<br/><br/>
-Repository: <a href="https://github.com/Hishamkhashman1/whos_snooping">Link</a>
+#### Who’s Snooping
+Local IP detection and network monitoring tool  
+Repository: https://github.com/Hishamkhashman1/whos_snooping
 
-</td>
-<td width="50%">
-</td>
-</tr>
-
-</table>
 ---
 
 ## Background
