@@ -42,31 +42,123 @@
 </p>
 
 ---
+<table>
+<tr>
+<td width="50%">
 
-## Current Projects
+### Kifor Match (MVP)
+Donor–charity matching platform for a Japanese nonprofit.  
+<br/><br/>
+Repository: <a href="https://github.com/kwood6319/kifor-match">Link</a>  
+Live: Coming soon
 
-- [**Kifor-Match-MVP**](https://github.com/kwood6319/kifor-match) — Donor–charity matching MVP built for a Japanese nonprofit. **WIP**
-- [**BugSquancher**](https://github.com/Hishamkhashman1/bug-squancher) —  Squanch the bug. Ship the fix.Coming soon! your go to CLI debugger!
-- [**Rick and Morty API**](https://github.com/Hishamkhashman1/rick-and-morty-API) — FastAPI + PostgreSQL API for Rick and Morty character data.
-- [**Forecast Alpha**](https://www.forecastalpha.it.com/) — Data analytics and AI solutions for SMBs.
+</td>
+<td width="50%">
 
----
+### BugSquancher
+CLI tool that captures failed shell commands and suggests fixes.  
+<br/><br/>
+Repository: <a href="https://github.com/Hishamkhashman1/bug-squancher">Link</a>  
+Live: Coming soon
 
-## Selected Work
+</td>
+</tr>
 
-### Full-Stack
-- [**LinguaLogic**](https://lingualogic-4a902f58893e.herokuapp.com/) — Gamified coding learning platform.
-- [**World Cup 2026 Tracker**](https://hishamkhashman1.github.io/wc26-tracker/) — Real-time tracking web app.
-- [**Movie Watch List**](https://hisham-watch-list-aad8d178a962.herokuapp.com/) — Rails app with API integration.
-- [**SEO Cyber Tool**](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) — SEO score report tool built to share with teams.
+<tr>
+<td width="50%">
 
-### Data
-- [**Stock Forecasting LSTM**](https://github.com/Hishamkhashman1/stock-forecasting-lstm) — Time-series prediction pipeline using deep learning.
-- [**ML Data Analysis Suite**](https://github.com/Hishamkhashman1/ml-data-analysis-suite) — Python-based analytics and automated reporting tool.
+### Rick and Morty API
+FastAPI + PostgreSQL API for character data.  
+<br/><br/>
+Live: <a href="https://rick-and-morty-api-9871cc72.fastapicloud.dev/">Link</a>  
+Repository: <a href="https://github.com/Hishamkhashman1/rick-and-morty-api">Link</a>
 
-### Security & Network Tools
-- [**Who’s Snooping**](https://github.com/Hishamkhashman1/whos_snooping) — Local IP detection and network monitoring tool.
+</td>
+<td width="50%">
 
+### Forecast Alpha
+AI-powered revenue intelligence platform.  
+<br/><br/>
+Live: <a href="https://www.forecastalpha.it.com/">Link</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### LinguaLogic
+Gamified coding learning platform.  
+<br/><br/>
+Live: <a href="https://lingualogic-4a902f58893e.herokuapp.com/">Link</a>  
+Repository: <a href="https://github.com/Hishamkhashman1/lingualogic">Link</a>
+
+</td>
+<td width="50%">
+
+### World Cup 2026 Tracker
+Real-time tracking web app.  
+<br/><br/>
+Live: <a href="https://hishamkhashman1.github.io/wc26-tracker/">Link</a>  
+Repository: <a href="https://github.com/Hishamkhashman1/wc26-tracker">Link</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Movie Watch List
+Rails app with API integration.  
+<br/><br/>
+Live: <a href="https://hisham-watch-list-aad8d178a962.herokuapp.com/">Link</a>  
+Repository: Private
+
+</td>
+<td width="50%">
+
+### SEO Cyber Tool
+SEO score reporting tool.  
+<br/><br/>
+Live: <a href="https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/">Link</a>  
+Repository: <a href="https://github.com/Hishamkhashman1/seo-tool">Link</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Stock Forecasting LSTM
+Time-series prediction pipeline using deep learning.  
+<br/><br/>
+Repository: <a href="https://github.com/Hishamkhashman1/stock-forecasting-lstm">Link</a>
+
+</td>
+<td width="50%">
+
+### ML Data Analysis Suite
+Python analytics + automated reporting tool.  
+<br/><br/>
+Repository: <a href="https://github.com/Hishamkhashman1/ml-data-analysis-suite">Link</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Who’s Snooping
+Local IP detection and network monitoring tool.  
+<br/><br/>
+Repository: <a href="https://github.com/Hishamkhashman1/whos_snooping">Link</a>
+
+</td>
+<td width="50%">
+</td>
+</tr>
+
+</table>
 ---
 
 ## Background
