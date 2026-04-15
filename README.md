@@ -31,23 +31,23 @@ FastAPI + PostgreSQL API deployed for public usage
 
 
 **Forecast Alpha**
-AI-powered revenue intelligence platform (forecasting + anomaly detection)
-[Deployed link](https://www.forecastalpha.it.com/)
+↳ AI-powered revenue intelligence platform (forecasting + anomaly detection)
+  [Deployed link](https://www.forecastalpha.it.com/)
 
 
 
 ### Current
 
 **Kifor Match (MVP)**
-Donor–charity matching platform for a Japanese nonprofit
-[Repository](https://github.com/kwood6319/kifor-match)
-Deployed link: Coming soon (WIP)
+↳ Donor–charity matching platform for a Japanese nonprofit
+  [Repository](https://github.com/kwood6319/kifor-match)
+  Deployed link: Coming soon (WIP)
 
 
 **BugSquancher**
-CLI tool that captures failed commands and suggests fixes
-[Repository](https://github.com/Hishamkhashman1/bug-squancher)
-Deployed link: Coming soon (WIP)
+↳ CLI tool that captures failed commands and suggests fixes
+  [Repository](https://github.com/Hishamkhashman1/bug-squancher)
+  Deployed link: Coming soon (WIP)
 
 
 
