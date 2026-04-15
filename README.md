@@ -23,7 +23,7 @@
 
 ### Featured
 
-**Rick and Morty API**
+→**Rick and Morty API**
 
 ↳ FastAPI + PostgreSQL API deployed for public usage
  [Deployed link](https://rick-and-morty-api-9871cc72.fastapicloud.dev/)
