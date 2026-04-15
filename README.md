@@ -46,11 +46,6 @@
 
 ## Selected Projects
 
-<p align="center">
-A selection of products, tools, and systems I’ve built and deployed.
-</p>
-
----
 
 ### Current Work
 
