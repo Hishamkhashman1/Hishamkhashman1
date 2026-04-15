@@ -1,13 +1,13 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/Ruby-111?style=for-the-badge&logo=ruby"/>
-  <img src="https://img.shields.io/badge/Rails-111?style=for-the-badge&logo=rubyonrails"/>
-  <img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python"/>
+  <img src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Ruby-informational?style=flat&logo=ruby"/>
+  <img src="https://img.shields.io/badge/Rails-informational?style=flat&logo=rubyonrails"/>
+  <img src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Linux-informational?style=flat&logo=linux"/>
 </p>
 
 ---
