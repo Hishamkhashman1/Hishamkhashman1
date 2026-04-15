@@ -5,27 +5,6 @@
   Building software, web applications, data systems, and AI-powered tools.
 </p>
 
-<p align="center">
-  <a href="https://hishamkhashman.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/hishamkhashman/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hishamkhashman1&theme=github_dark" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hishamkhashman1&theme=github_dark" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Hishamkhashman1&hide_border=true&theme=dark" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hishamkhashman1&theme=github_dark" />
-</p>
-
 ---
 
 ## Tech Stack
