@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="matrx-banner.png" width="100%" alt="Subtle matrix-inspired background banner" />
+  <img src="./assets/matrx-banner.png" width="100%" alt="Subtle matrix-inspired background banner" />
 </p>
 
 ## Tech Stack
