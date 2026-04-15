@@ -1,12 +1,3 @@
-<h1 align="center">Hisham Khashman</h1>
-
-<p align="center">
-  <strong>Full-Stack Engineer</strong><br/>
-  Building software, web applications, data systems, and AI-powered tools.
-</p>
-
----
-
 ## Tech Stack
 
 <p align="center">
