@@ -23,6 +23,12 @@
 
 ### Featured
 
+**BugSquancher**
+CLI tool that captures failed commands and suggests fixes
+[Repository](https://github.com/Hishamkhashman1/bug-squancher)
+Deployed MVP check Documentation for PIP install
+
+
 **Rick and Morty API**
 FastAPI + PostgreSQL API deployed for public usage
 [Deployed link](https://rick-and-morty-api-9871cc72.fastapicloud.dev/)
@@ -42,13 +48,6 @@ AI-powered revenue intelligence platform (forecasting + anomaly detection)
 Donor–charity matching platform for a Japanese nonprofit
 [Repository](https://github.com/kwood6319/kifor-match)
 Deployed link: Coming soon (WIP)
-
-
-**BugSquancher**
-CLI tool that captures failed commands and suggests fixes
-[Repository](https://github.com/Hishamkhashman1/bug-squancher)
-Deployed link: Coming soon (WIP)
-
 
 
 ### Applications
