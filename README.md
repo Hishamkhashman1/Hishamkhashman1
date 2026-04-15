@@ -42,6 +42,7 @@
 </p>
 
 ---
+## Projects
 <table>
 <tr>
 <td width="50%">
