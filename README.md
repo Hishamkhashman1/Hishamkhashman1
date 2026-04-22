@@ -31,6 +31,10 @@
 ↳ FastAPI + PostgreSQL API deployed for public usage  
 [Live](https://rick-and-morty-api-9871cc72.fastapicloud.dev/) · [Repo](https://github.com/Hishamkhashman1/rick-and-morty-api)
 
+**→ SEO Signal Console**  
+↳ SEO monitoring for small teams  
+[Live](https://www.seosignalconsole.com/) 
+
 **→ Forecast Alpha**  
 ↳ AI-powered revenue intelligence platform (forecasting + anomaly detection)  
 [Live](https://www.forecastalpha.it.com/)
@@ -56,9 +60,6 @@
 ↳ Rails app with API integration  
 [Live](https://hisham-watch-list-aad8d178a962.herokuapp.com/) · Repo: Private
 
-**→ SEO Cyber Tool**  
-↳ SEO score reporting tool  
-[Live](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) 
 
 ### Data
 
