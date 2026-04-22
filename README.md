@@ -58,7 +58,7 @@
 
 **→ SEO Cyber Tool**  
 ↳ SEO score reporting tool  
-[Live](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) · [Repo](https://github.com/Hishamkhashman1/seo-tool)
+[Live](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/) 
 
 ### Data
 
