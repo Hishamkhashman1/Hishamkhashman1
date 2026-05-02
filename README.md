@@ -23,12 +23,10 @@
 
 ### Featured
 
-**→ BugSquancher**  
-↳ CLI tool that captures failed commands and suggests fixes  
+**→ BugSquancher** CLI tool that captures failed commands and suggests fixes  
 [Repo](https://github.com/Hishamkhashman1/bug-squancher) · Deployed PIP , check REPO
 
-**→ Rick and Morty API**  
-↳ FastAPI + PostgreSQL API deployed for public usage  
+**→ Rick and Morty API** FastAPI + PostgreSQL API deployed for public usage  
 [Live](https://rick-and-morty-api-9871cc72.fastapicloud.dev/) · [Repo](https://github.com/Hishamkhashman1/rick-and-morty-api)
 
 **→ SEO Signal Console**  
