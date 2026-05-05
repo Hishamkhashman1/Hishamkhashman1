@@ -41,7 +41,6 @@
 [Repo](https://github.com/kwood6319/kifor-match) · Live: Coming soon (WIP)
 
 **→ AI Personal Assistant** Your go to personal AI assitant, an enhanced alternative to other popular tools
-
 [Repo](https://github.com/Hishamkhashman1/AI-personal-assistant)
 
 
