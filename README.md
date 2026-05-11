@@ -22,6 +22,11 @@
 ## Projects
 
 ### Featured
+**→ Forecast Alpha** AI-powered revenue intelligence platform (forecasting + anomaly detection). Save the date: SaaS go-live June, 15, 2026 🚨
+[Live](https://www.forecastalpha.it.com/)
+
+**→ AI Personal Assistant** Your go to personal AI assitant, an enhanced alternative to other popular tools
+[Repo](https://github.com/Hishamkhashman1/AI-personal-assistant)
 
 **→ BugSquancher** CLI tool that captures failed commands and suggests fixes  
 [Repo](https://github.com/Hishamkhashman1/bug-squancher) · Deployed PIP , check REPO
@@ -32,16 +37,10 @@
 **→ SEO Signal Console** SEO monitoring for small teams  
 [Live](https://www.seosignalconsole.com/) 
 
-**→ Forecast Alpha** AI-powered revenue intelligence platform (forecasting + anomaly detection)  
-[Live](https://www.forecastalpha.it.com/)
-
 ### Current
 
 **→ Kifor Match (MVP)** Donor–charity matching platform for a Japanese nonprofit  
 [Repo](https://github.com/kwood6319/kifor-match) · Live: Coming soon (WIP)
-
-**→ AI Personal Assistant** Your go to personal AI assitant, an enhanced alternative to other popular tools
-[Repo](https://github.com/Hishamkhashman1/AI-personal-assistant)
 
 
 ### Applications
