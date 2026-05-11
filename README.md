@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="./assets/image.png" width="100%" height="50%" alt="Subtle matrix-inspired background banner" />
+  <img src="./assets/image.png" width="100%" alt="Banner" />
 </p>
+
+# Hi, I'm Hisham 👋
+
+Full-Stack Engineer building AI-powered products, analytics platforms, and automation tools.
+
+---
 
 ## Tech Stack
 
@@ -17,65 +23,79 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28"/>
 </p>
 
+---
 
+## Featured Projects
 
-## Projects
+### Forecast Alpha
+AI-powered revenue intelligence platform focused on forecasting and anomaly detection. Public SaaS release planned for June 2026.
 
-### Featured
-**→ Forecast Alpha** AI-powered revenue intelligence platform (forecasting + anomaly detection). Save the date: SaaS go-live June, 15, 2026 🚨
-[Live](https://www.forecastalpha.it.com/)
+[Live Site](https://www.forecastalpha.it.com/)
 
-**→ AI Personal Assistant** Your go to personal AI assitant, an enhanced alternative to other popular tools
-[Repo](https://github.com/Hishamkhashman1/AI-personal-assistant)
+---
 
-**→ BugSquancher** CLI tool that captures failed commands and suggests fixes  
-[Repo](https://github.com/Hishamkhashman1/bug-squancher) · Deployed PIP , check REPO
+### AI Personal Assistant
+AI meeting assistant with transcription, memory, and contextual Q&A.
 
-**→ Rick and Morty API** FastAPI + PostgreSQL API deployed for public usage  
-[Live](https://rick-and-morty-api-9871cc72.fastapicloud.dev/) · [Repo](https://github.com/Hishamkhashman1/rick-and-morty-api)
+[Repository](https://github.com/Hishamkhashman1/AI-personal-assistant)
 
-**→ SEO Signal Console** SEO monitoring for small teams  
-[Live](https://www.seosignalconsole.com/) 
+---
 
-### Current WIP
+### BugSquancher
+CLI tool that captures failed terminal commands and suggests fixes.
 
-**→ Kifor Match (MVP)** Donor–charity matching platform for a Japanese nonprofit  
-[Repo](https://github.com/kwood6319/kifor-match) · Live: Coming soon (WIP)
+[Repository](https://github.com/Hishamkhashman1/bug-squancher)
 
+---
 
-### Selected Applications
+### Rick and Morty API
+FastAPI + PostgreSQL API deployed for public usage.
 
-**→ LinguaLogic** Gamified coding learning platform  
-[Live](https://lingualogic-4a902f58893e.herokuapp.com/) · [Repo](https://github.com/Hishamkhashman1/lingualogic)
+[Live](https://rick-and-morty-api-9871cc72.fastapicloud.dev/) ·
+[Repository](https://github.com/Hishamkhashman1/rick-and-morty-api)
 
-**→ World Cup 2026 Tracker** Real-time tracking web app  
-[Live](https://hishamkhashman1.github.io/wc26-tracker/) · [Repo](https://github.com/Hishamkhashman1/wc26-tracker)
+---
 
-**→ Movie Watch List** Rails app with API integration  
-[Live](https://hisham-watch-list-aad8d178a962.herokuapp.com/) · Repo: Private
+### SEO Signal Console
+SEO monitoring platform for small teams and businesses.
 
+[Live](https://www.seosignalconsole.com/)
 
-### Selected Data Analytics
+---
 
-**→ Stock Forecasting LSTM** Time-series prediction pipeline  
-[Repo](https://github.com/Hishamkhashman1/stock-forecasting-lstm)
+## Current Work
 
-**→ ML Data Analysis Suite** Analytics and automated reporting tool  
-[Repo](https://github.com/Hishamkhashman1/ml-data-analysis-suite)
+### Kifor Match (MVP)
+Donor–charity matching platform for a Japanese nonprofit.
 
-### Selected Security Tools
+[Repository](https://github.com/kwood6319/kifor-match)
 
-**→ Who’s Snooping** Local network monitoring tool  
-[Repo](https://github.com/Hishamkhashman1/whos_snooping)
+---
 
+## Additional Projects
+
+| Project | Description |
+|---|---|
+| **LinguaLogic** | Gamified coding learning platform |
+| **World Cup 2026 Tracker** | Real-time tournament tracker |
+| **Movie Watch List** | Rails app with API integration |
+| **Stock Forecasting LSTM** | Time-series forecasting pipeline |
+| **ML Data Analysis Suite** | Analytics and automated reporting |
+| **Who’s Snooping** | Local network monitoring tool |
+
+---
 
 ## Background
 
-10+ years across consulting, finance, operations, and technology
-Now focused on building production-ready software and data products
+- 10+ years across consulting, finance, operations, and technology
+- Former PwC & Accenture consultant
+- Focused on backend systems, analytics, automation, and AI products
+- Founder of Forecast Alpha
 
-
+---
 
 ## Contact
 
-hisham.khashman@gmail.com
+- Portfolio: https://hishamkhashman.dev
+- Email: hisham.khashman@gmail.com
+- LinkedIn: https://linkedin.com/in/hishamkhashman
