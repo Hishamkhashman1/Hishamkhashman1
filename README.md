@@ -74,14 +74,14 @@ Donor–charity matching platform for a Japanese nonprofit.
 
 ## Additional Projects
 
-| Project | Description |
-|---|---|
-| **LinguaLogic** | Gamified coding learning platform |
-| **World Cup 2026 Tracker** | Real-time tournament tracker |
-| **Movie Watch List** | Rails app with API integration |
-| **Stock Forecasting LSTM** | Time-series forecasting pipeline |
-| **ML Data Analysis Suite** | Analytics and automated reporting |
-| **Who’s Snooping** | Local network monitoring tool |
+| Project | Description | Links |
+|---|---|---|
+| **LinguaLogic** | Gamified coding learning platform | [Live](https://lingualogic-4a902f58893e.herokuapp.com/) · [Repo](https://github.com/Hishamkhashman1/lingualogic) |
+| **World Cup 2026 Tracker** | Real-time tournament tracking web app | [Live](https://hishamkhashman1.github.io/wc26-tracker/) · [Repo](https://github.com/Hishamkhashman1/wc26-tracker) |
+| **Movie Watch List** | Rails app with API integration | [Live](https://hisham-watch-list-aad8d178a962.herokuapp.com/) |
+| **Stock Forecasting LSTM** | Time-series prediction pipeline | [Repo](https://github.com/Hishamkhashman1/stock-forecasting-lstm) |
+| **ML Data Analysis Suite** | Analytics and automated reporting tool | [Repo](https://github.com/Hishamkhashman1/ml-data-analysis-suite) |
+| **Who’s Snooping** | Local network monitoring tool | [Repo](https://github.com/Hishamkhashman1/whos_snooping) |
 
 ---
 
