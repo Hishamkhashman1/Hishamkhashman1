@@ -37,13 +37,13 @@
 **→ SEO Signal Console** SEO monitoring for small teams  
 [Live](https://www.seosignalconsole.com/) 
 
-### Current
+### Current WIP
 
 **→ Kifor Match (MVP)** Donor–charity matching platform for a Japanese nonprofit  
 [Repo](https://github.com/kwood6319/kifor-match) · Live: Coming soon (WIP)
 
 
-### Applications
+### Selected Applications
 
 **→ LinguaLogic** Gamified coding learning platform  
 [Live](https://lingualogic-4a902f58893e.herokuapp.com/) · [Repo](https://github.com/Hishamkhashman1/lingualogic)
@@ -55,7 +55,7 @@
 [Live](https://hisham-watch-list-aad8d178a962.herokuapp.com/) · Repo: Private
 
 
-### Data
+### Selected Data Analytics
 
 **→ Stock Forecasting LSTM** Time-series prediction pipeline  
 [Repo](https://github.com/Hishamkhashman1/stock-forecasting-lstm)
@@ -63,7 +63,7 @@
 **→ ML Data Analysis Suite** Analytics and automated reporting tool  
 [Repo](https://github.com/Hishamkhashman1/ml-data-analysis-suite)
 
-### Security
+### Selected Security Tools
 
 **→ Who’s Snooping** Local network monitoring tool  
 [Repo](https://github.com/Hishamkhashman1/whos_snooping)
