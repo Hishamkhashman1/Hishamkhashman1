@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="https://www.forecastalpha.it.com/forecastalpha_logo_cropped.png" alt="Banner" width="120" href=https://www.forecastalpha.it.com/"/>
+  <a href="https://www.forecastalpha.it.com/">
+  <img src="https://www.forecastalpha.it.com/forecastalpha_logo_cropped.png" alt="Banner" width="120"/>
 </p>
 
 
