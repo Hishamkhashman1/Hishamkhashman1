@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.forecastalpha.it.com/forecastalpha_logo_cropped.png" alt="Banner" width="400"/>
+  <img src="https://www.forecastalpha.it.com/forecastalpha_logo_cropped.png" alt="Banner" width="300" align="left"/>
 </p>
 
 # Hisham Khashman
