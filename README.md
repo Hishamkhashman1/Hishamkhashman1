@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://www.forecastalpha.it.com/forecastalpha_logo_cropped.png" alt="Banner" width="300"/>
+  <img src="https://www.forecastalpha.it.com/forecastalpha_logo_cropped.png" alt="Banner" width="150"/>
 </p>
 
 
