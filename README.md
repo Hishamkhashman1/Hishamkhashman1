@@ -31,7 +31,6 @@ AI-powered operational intelligence platform for connected business data.
 
 Forecast Alpha helps teams connect databases, discover relevant KPIs, detect anomalies, monitor business performance, and move from raw operational data to decision-ready dashboards.
 
-Public SaaS release planned for June 2026.
 
 [Live Site](https://www.forecastalpha.it.com/)
 
