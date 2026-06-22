@@ -87,6 +87,7 @@ Built as a lightweight debugging assistant for command-line workflows.
 - 10+ years across consulting, finance, operations, and technology
 - Focused on SaaS, backend systems, analytics, automation, and AI-enabled products
 - Master’s degree in Finance
+- Le Wagon Tokyo - Software Development
 
 ---
 
