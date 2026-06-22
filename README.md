@@ -1,12 +1,8 @@
-<p align="left">
-  <a href="https://www.forecastalpha.it.com/">
-  <img src="https://www.forecastalpha.it.com/forecastalpha_logo_cropped.png" alt="Banner" width="120"/>
-</p>
 
 
 # Hisham Khashman
 
-Founder of Forecast Alpha. Full-Stack Engineer building AI-powered business intelligence, automation, and analytics products.
+Full-Stack Engineer building AI-powered business intelligence, automation, and analytics products.
 
 I work across product strategy, backend systems, data workflows, and SaaS execution, with 10+ years of experience across consulting, finance, operations, and technology.
 
