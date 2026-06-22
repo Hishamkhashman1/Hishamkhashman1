@@ -1,8 +1,8 @@
 
 
-# Hisham Khashman
+# Full-Stack Engineer
 
-Full-Stack Engineer building AI-powered business intelligence, automation, and analytics products.
+building AI-powered business intelligence, automation, and analytics products.
 
 I work across product strategy, backend systems, data workflows, and SaaS execution, with 10+ years of experience across consulting, finance, operations, and technology.
 
