@@ -1,99 +1,189 @@
 
+<h3 align="center">
+Full-Stack Software Engineer • Python • Ruby on Rails • FastAPI • JavaScript
+</h3>
 
-# Full-Stack Developer
-
-Building modern web applications, SaaS products, backend systems, and data-driven software with Python, Ruby on Rails, FastAPI, JavaScript, and SQL.
-
-After 10+ years across consulting, finance, and operations, I transitioned into software engineering and now focus on building scalable products, contributing to open source, and continuously expanding my engineering skills through real-world projects.
-
----
-
-## Core Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28"/>
+<p align="center">
+Building scalable web applications, backend systems, APIs, automation tools and SaaS products.
 </p>
 
 ---
 
-## Products & Ventures
+## About Me
 
-### Forecast Alpha
+I'm a Full-Stack Software Engineer with a background in consulting, finance, and operations.
 
-AI-powered operational intelligence platform for connected business data.
+After spending more than 10 years solving business problems in consulting and industry, I transitioned into software engineering and now focus on building production-ready software, scalable backend systems, APIs, and SaaS applications.
 
-Forecast Alpha helps teams connect databases, discover relevant KPIs, detect anomalies, monitor business performance, and move from raw operational data to decision-ready dashboards.
-
-
-[Live Site](https://www.forecastalpha.it.com/)
+I enjoy turning ideas into real products, contributing to open source, and continuously improving my engineering skills through hands-on development.
 
 ---
 
-### SEO Signal Console
+## Current Focus
 
-SEO monitoring and signal detection platform for small teams and businesses.
-
-Built to help companies scan websites, identify SEO issues, monitor performance signals, and turn technical SEO checks into actionable improvement workflows.
-
-[Live Site](https://www.seosignalconsole.com/)
-
----
-
-### AI Personal Assistant
-
-AI meeting and knowledge assistant with transcription, memory, summarization, and contextual Q&A.
-
-Designed as a foundation for personal productivity automation and meeting intelligence workflows.
-
-[Repository](https://github.com/Hishamkhashman1/AI-personal-assistant)
+-  Building **Forecast Alpha**, an operational intelligence platform
+-  Python & FastAPI development
+-  Ruby on Rails applications
+-  Full-Stack SaaS products
+-  Data analytics & automation
+-  Open Source contributions
+-  Continuous learning
 
 ---
 
-### BugSquancher
+# Tech Stack
 
-Developer productivity CLI that captures failed terminal commands and suggests likely fixes.
+### Languages
 
-Built as a lightweight debugging assistant for command-line workflows.
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35"/>
+</p>
 
-[Repository](https://github.com/Hishamkhashman1/bug-squancher)
+### Frameworks
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/>
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/>
+</p>
 
 ---
 
-## Selected Engineering Work
+#  Featured Products
 
-| Project | Focus | Links |
-|---|---|---|
-| **Rick and Morty API** | FastAPI + PostgreSQL public API | [Live](https://rick-and-morty-api-9871cc72.fastapicloud.dev/) · [Repo](https://github.com/Hishamkhashman1/rick-and-morty-api) |
-| **Kifor Match** | Donor-charity matching MVP for a Japanese nonprofit | [Repo](https://github.com/kwood6319/kifor-match) |
-| **LinguaLogic** | Gamified coding learning platform | [Live](https://lingualogic-4a902f58893e.herokuapp.com/) · [Repo](https://github.com/Hishamkhashman1/lingualogic) |
-| **World Cup 2026 Tracker** | Real-time tournament tracking app | [Live](https://hishamkhashman1.github.io/wc26-tracker/) · [Repo](https://github.com/Hishamkhashman1/wc26-tracker) |
-| **Stock Forecasting LSTM** | Time-series forecasting pipeline | [Repo](https://github.com/Hishamkhashman1/stock-forecasting-lstm) |
-| **ML Data Analysis Suite** | Analytics and automated reporting | [Repo](https://github.com/Hishamkhashman1/ml-data-analysis-suite) |
-| **Who’s Snooping** | Local network monitoring utility | [Repo](https://github.com/Hishamkhashman1/whos_snooping) |
+## Forecast Alpha
+
+Operational intelligence platform for connected business data.
+
+Forecast Alpha enables organizations to connect databases, discover meaningful KPIs, monitor business performance, detect anomalies, and transform operational data into actionable insights.
+
+🌐 https://www.forecastalpha.it.com/
 
 ---
 
-## Background
+## SEO Signal Console
 
-- Founder of Forecast Alpha
-- Former PwC and Accenture consultant
-- 10+ years across consulting, finance, operations, and technology
-- Focused on SaaS, backend systems, analytics, automation, and AI-enabled products
-- Master’s degree in Finance
-- Le Wagon Tokyo - Software Development
+SEO monitoring platform built for agencies and small businesses.
+
+Helps identify technical SEO issues, monitor website health, and prioritize optimization opportunities.
+
+🌐 https://www.seosignalconsole.com/
 
 ---
 
-## Contact
+## AI Personal Assistant
 
-- Portfolio: https://hishamkhashman.dev
-- Forecast Alpha: https://www.forecastalpha.it.com/
-- Email: hisham.khashman@gmail.com
-- LinkedIn: https://linkedin.com/in/hishamkhashman
+Personal productivity assistant featuring:
+
+- Meeting transcription
+- Memory
+- Summarization
+- Contextual Q&A
+
+Repository
+
+https://github.com/Hishamkhashman1/AI-personal-assistant
+
+---
+
+## BugSquancher
+
+CLI developer assistant that captures terminal errors and suggests likely fixes.
+
+Repository
+
+https://github.com/Hishamkhashman1/bug-squancher
+
+---
+
+#  Selected Engineering Projects
+
+| Project | Description |
+|----------|-------------|
+| Rick and Morty API | FastAPI + PostgreSQL REST API |
+| Kifor Match | Ruby on Rails platform for Japanese nonprofit |
+| LinguaLogic | Gamified coding education platform |
+| World Cup Tracker | Real-time football tracking application |
+| Stock Forecasting LSTM | Time-series forecasting with TensorFlow |
+| ML Data Analysis Suite | Automated analytics toolkit |
+| Who's Snooping | Local network monitoring utility |
+
+---
+
+#  Open Source
+
+I actively contribute to open source and enjoy improving libraries, fixing bugs, and collaborating with the developer community.
+
+Recent contributions include:
+
+- Python ecosystem
+- Packaging improvements
+- Bug fixes
+- Documentation
+- Feature enhancements
+
+---
+
+#  Background
+
+-  Founder — Forecast Alpha
+-  Former Consultant — PwC
+-  Former Consultant — Accenture
+-  10+ years across consulting, finance, operations & technology
+-  Le Wagon Tokyo — Full-Stack Software Development
+-  Master's Degree in Finance
+
+---
+
+#  Connect
+
+ Portfolio
+
+https://hishamkhashman.dev
+
+ LinkedIn
+
+https://linkedin.com/in/hishamkhashman
+
+ Forecast Alpha
+
+https://www.forecastalpha.it.com/
+
+
+
+hisham.khashman@gmail.com
+
+---
+
+<p align="center">
+
+Always building.<br>
+Always learning.<br>
+Always shipping.
+
+</p>
