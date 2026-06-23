@@ -2,9 +2,9 @@
 
 # Full-Stack Developer
 
-building AI-powered business intelligence, automation, and analytics products.
+Building modern web applications, SaaS products, backend systems, and data-driven software with Python, Ruby on Rails, FastAPI, JavaScript, and SQL.
 
-I work across product strategy, backend systems, data workflows, and SaaS execution, with 10+ years of experience across consulting, finance, operations, and technology.
+After 10+ years across consulting, finance, and operations, I transitioned into software engineering and now focus on building scalable products, contributing to open source, and continuously expanding my engineering skills through real-world projects.
 
 ---
 
