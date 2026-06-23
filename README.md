@@ -1,6 +1,6 @@
 
 
-# Full-Stack Engineer
+# Full-Stack Developer
 
 building AI-powered business intelligence, automation, and analytics products.
 
