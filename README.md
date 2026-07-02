@@ -179,7 +179,15 @@ https://www.forecastalpha.it.com/
 
 
 hisham.khashman@gmail.com
+---
 
+<p align="center">
+
+English<br>
+Español<br>
+日本語
+
+</p>
 ---
 
 <p align="center">
