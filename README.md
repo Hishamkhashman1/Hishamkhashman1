@@ -1,6 +1,7 @@
 
 <h3 align="center">
 Full-Stack Software Engineer • Python • Ruby on Rails • FastAPI • JavaScript
+フルスタックエンジニア
 </h3>
 
 <p align="center">
