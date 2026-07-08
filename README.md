@@ -9,6 +9,7 @@ Full-Stack Software Engineer • Python • Ruby on Rails • FastAPI • JavaSc
 Building scalable web applications, backend systems, APIs, automation tools and SaaS products.
 </p>
 
+
 ---
 
 ## About Me
