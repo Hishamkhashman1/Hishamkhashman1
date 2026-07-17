@@ -12,7 +12,7 @@ Building software.
 
 ## About
 
-Software engineer building backend systems, APIs and SaaS products.
+Fullstack engineer, building backend systems, APIs and SaaS products. I enjoy coding.
 
 Former consultant with a background in finance and operations. Today I spend most of my time designing, building and shipping software.
 
