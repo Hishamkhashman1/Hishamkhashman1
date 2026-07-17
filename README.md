@@ -2,19 +2,28 @@
 Full-Stack Software Engineer • Python • Ruby on Rails • FastAPI • JavaScript
 
 フルスタックソフトウェアエンジニア
+
 </h3>
 
 <p align="center">
-Building software.
+Building things.
 </p>
 
 ---
 
 ## About
 
-Fullstack engineer, building backend systems, APIs and SaaS products. I enjoy coding.
+Full-stack engineer building backend systems, APIs and SaaS products.
 
 Former consultant with a background in finance and operations. Today I spend most of my time designing, building and shipping software.
+
+---
+
+## Currently
+
+* Building Forecast Alpha
+* Working with Python, FastAPI and Ruby on Rails
+* Contributing to open source when I can
 
 ---
 
@@ -64,23 +73,23 @@ Former consultant with a background in finance and operations. Today I spend mos
 
 ### Forecast Alpha
 
-Operational intelligence platform for business analytics.
+Operational intelligence platform.
 
 https://www.forecastalpha.it.com/
 
 ---
 
-### SEO Signal Console
+### Rick and Morty API
 
-Technical SEO monitoring platform.
+REST API built with FastAPI and PostgreSQL.
 
-https://www.seosignalconsole.com/
+https://github.com/Hishamkhashman1/Rick-and-Morty-API
 
 ---
 
 ### AI Personal Assistant
 
-Local AI assistant with memory, transcription and contextual search.
+Local AI assistant with memory and transcription.
 
 https://github.com/Hishamkhashman1/AI-personal-assistant
 
@@ -94,43 +103,21 @@ https://github.com/Hishamkhashman1/bug-squancher
 
 ---
 
-### Other Projects
-
-- Rick and Morty API
-- Kifor Match
-- LinguaLogic
-- World Cup Tracker
-- Stock Forecasting (LSTM)
-- ML Data Analysis Suite
-- Who's Snooping
-
----
-
 ## Open Source
 
-I enjoy contributing to projects I use.
-
-Contributions include bug fixes, feature improvements, documentation and pull requests across the Python ecosystem.
+I occasionally contribute to open source projects through bug fixes, feature work and documentation improvements.
 
 ---
 
 ## Contact
 
-Portfolio
+Portfolio: https://hishamkhashman.dev
 
-https://hishamkhashman.dev
+GitHub: https://github.com/Hishamkhashman1
 
-GitHub
+LinkedIn: https://linkedin.com/in/hishamkhashman
 
-https://github.com/Hishamkhashman1
-
-LinkedIn
-
-https://linkedin.com/in/hishamkhashman
-
-Email
-
-hisham.khashman@gmail.com
+Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 
 ---
 
