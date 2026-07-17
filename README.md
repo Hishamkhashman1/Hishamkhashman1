@@ -14,8 +14,6 @@ Building software.
 
 Software engineer building backend systems, APIs and SaaS products.
 
-Currently focused on Python, FastAPI, Ruby on Rails and Linux.
-
 Former consultant with a background in finance and operations. Today I spend most of my time designing, building and shipping software.
 
 ---
