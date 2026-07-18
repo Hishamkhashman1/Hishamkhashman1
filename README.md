@@ -9,7 +9,7 @@ Full-Stack Software Engineer • Python • Ruby on Rails • FastAPI • JavaSc
 Building things.
 </p>
 
----
+
 
 ## About
 
@@ -17,7 +17,7 @@ Full-stack engineer building backend systems, APIs and SaaS products.
 
 Former consultant with a background in finance and operations. Today I spend most of my time designing, building and shipping software.
 
----
+
 
 ## Currently
 
@@ -25,7 +25,7 @@ Former consultant with a background in finance and operations. Today I spend mos
 * Working with Python, FastAPI and Ruby on Rails
 * Contributing to open source when I can
 
----
+
 
 ## Stack
 
@@ -67,7 +67,7 @@ Former consultant with a background in finance and operations. Today I spend mos
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/>
 </p>
 
----
+
 
 ## Selected Builds
 
@@ -77,7 +77,7 @@ Operational intelligence platform.
 
 https://www.forecastalpha.it.com/
 
----
+
 
 ### Rick and Morty API
 
@@ -85,7 +85,7 @@ REST API built with FastAPI and PostgreSQL.
 
 https://rick-and-morty-api-9871cc72.fastapicloud.dev/
 
----
+
 
 ### AI Personal Assistant
 
@@ -93,7 +93,7 @@ Local AI assistant with memory and transcription.
 
 https://github.com/Hishamkhashman1/AI-personal-assistant
 
----
+
 
 ### Bug Squancher
 
@@ -101,13 +101,13 @@ CLI utility for debugging terminal errors.
 
 https://github.com/Hishamkhashman1/bug-squancher
 
----
+
 
 ## Open Source
 
 I occasionally contribute to open source projects through bug fixes, feature work and documentation improvements.
 
----
+
 
 ## Contact
 
@@ -119,7 +119,7 @@ LinkedIn: https://linkedin.com/in/hishamkhashman
 
 Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 
----
+
 
 <p align="center">
 English • Español • 日本語
