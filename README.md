@@ -83,7 +83,7 @@ https://www.forecastalpha.it.com/
 
 REST API built with FastAPI and PostgreSQL.
 
-https://github.com/Hishamkhashman1/Rick-and-Morty-API
+https://github.com/Hishamkhashman1/Rick-and-Morty-API](https://rick-and-morty-api-9871cc72.fastapicloud.dev/
 
 ---
 
