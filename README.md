@@ -1,15 +1,32 @@
-<h4 align="center">
+<table width="100%">
+<tr>
+
+<td width="80%" align="center">
+
+<h4>
 Full-Stack Software Engineer • Python • Ruby on Rails • FastAPI • JavaScript
 
 フルスタックソフトウェアエンジニア
-
 </h4>
 
-<p align="center">
+<p>
 Building things.
 </p>
 
+</td>
 
+<td width="20%" valign="middle" align="center">
+
+🇲🇽 Mexican
+
+<br><br>
+
+🇯🇵 日本語 (N3)
+
+</td>
+
+</tr>
+</table>
 
 #### Quick Summary
 
