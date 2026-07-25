@@ -32,10 +32,10 @@ Former consultant with a background in finance and operations. Today I spend mos
 
 <table>
 <tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>Frameworks</b></td>
-<td align="center"><b>Databases</b></td>
-<td align="center"><b>Infrastructure</b></td>
+<td align="center"><sub><b>Languages</b></sub></td>
+<td align="center"><sub><b>Frameworks</b></sub></td>
+<td align="center"><sub><b>Databases</b></sub></td>
+<td align="center"><sub><b>Infrastructure</b></sub></td>
 </tr>
 
 <tr>
@@ -70,6 +70,8 @@ Former consultant with a background in finance and operations. Today I spend mos
 </td>
 </tr>
 </table>
+
+
 
 #### Selected Builds
 
