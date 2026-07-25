@@ -171,7 +171,7 @@ Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 
 <td width="50%" valign="top" align="center">
 
-<img src="./assets/Durham_University_logo.svg.webp" height="52" alt="Durham University"/>
+<img src="./assets/Durham_University_logo.svg.webp" height="58" alt="Durham University"/>
 
 <br>
 
