@@ -15,7 +15,7 @@ Building things.
 
 </td>
 
-<td width="10%" valign="middle" align="center">
+<td width="50%" valign="middle" align="center">
 
 🇲🇽 Mexicano<br>
 🇯🇵 日本語 (N3)
