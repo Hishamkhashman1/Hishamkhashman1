@@ -19,7 +19,7 @@ Former consultant with a background in finance and operations. Today I spend mos
 
 
 
-## Currently
+## Current work & interests
 
 * Building Forecast Alpha
 * Building my own Language Model
