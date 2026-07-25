@@ -138,6 +138,11 @@ I occasionally contribute to open source projects through bug fixes, feature wor
 
 <td width="50%" valign="top">
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 #### Contact
 
 Portfolio: https://hishamkhashman.dev
@@ -152,7 +157,7 @@ Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/7/70/Durham_University_logo.svg" height="42" alt="Durham University"/>
+<img src="./assets/Durham_University_logo.svg.webp" height="42" alt="Durham University"/>
 
 <br>
 
@@ -162,11 +167,11 @@ Master's Degree in Financial Management (Merit)
 
 <br><br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PwC_Company_Logo.svg" height="32" alt="PwC"/>
+<img src="./assets/PwC_Company_Logo.svg.webp" height="32" alt="PwC"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Accenture_logo.svg" height="26" alt="Accenture"/>
+<img src="./assets/Accenture.svg.webp" height="26" alt="Accenture"/>
 
 </td>
 
