@@ -145,11 +145,11 @@ I occasionally contribute to open source projects through bug fixes, feature wor
 
 #### Contact
 
-Portfolio: https://hishamkhashman.dev
+Portfolio: [Website](https://hishamkhashman.dev)
 
-GitHub: https://github.com/Hishamkhashman1
+GitHub: [Hishamkhashman1](https://github.com/Hishamkhashman1)
 
-LinkedIn: https://linkedin.com/in/hishamkhashman
+LinkedIn: [Hisham Khashman](https://linkedin.com/in/hishamkhashman)
 
 Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 
