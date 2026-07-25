@@ -129,6 +129,10 @@ I occasionally contribute to open source projects through bug fixes, feature wor
 
 
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 #### Contact
 
 Portfolio: https://hishamkhashman.dev
@@ -138,6 +142,24 @@ GitHub: https://github.com/Hishamkhashman1
 LinkedIn: https://linkedin.com/in/hishamkhashman
 
 Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+<img src="./assets/durham-university.png" alt="Durham University" width="130"/>
+
+**Masters Financial Management**
+
+<br>
+
+<img src="./assets/pwc.png" alt="PwC" width="65"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/accenture.png" alt="Accenture" width="105"/>
+
+</td>
+</tr>
+</table>
 
 
 
