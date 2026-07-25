@@ -161,9 +161,9 @@ Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 
 <br>
 
-**Durham University**
 
-Master's Degree in Financial Management (Merit)
+
+**Master's Degree in Financial Management (Merit)**
 
 <br><br>
 
