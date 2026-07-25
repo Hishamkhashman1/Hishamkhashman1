@@ -1,9 +1,9 @@
-<h3 align="center">
+<h4 align="center">
 Full-Stack Software Engineer • Python • Ruby on Rails • FastAPI • JavaScript
 
 フルスタックソフトウェアエンジニア
 
-</h3>
+</h4>
 
 <p align="center">
 Building things.
@@ -11,7 +11,7 @@ Building things.
 
 
 
-## Quick Summary
+### Quick Summary
 
 Full-stack engineer building backend systems, APIs and SaaS products.
 
@@ -19,7 +19,7 @@ Former consultant with a background in finance and operations. Today I spend mos
 
 
 
-## Current work & interests
+### Current work & interests
 
 * Building Forecast Alpha
 * Building my own Language Model
@@ -28,7 +28,7 @@ Former consultant with a background in finance and operations. Today I spend mos
 
 
 
-## Stack
+### Stack
 
 <table>
 <tr>
@@ -71,13 +71,13 @@ Former consultant with a background in finance and operations. Today I spend mos
 </tr>
 </table>
 
-## Selected Builds
+### Selected Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Forecast Alpha
+#### Forecast Alpha
 
 Operational intelligence platform.
 
@@ -87,7 +87,7 @@ https://www.forecastalpha.it.com/
 
 <td width="50%" valign="top">
 
-### Rick and Morty API
+#### Rick and Morty API
 
 REST API built with FastAPI and PostgreSQL.
 
@@ -99,7 +99,7 @@ https://rick-and-morty-api-9871cc72.fastapicloud.dev/
 <tr>
 <td width="50%" valign="top">
 
-### AI Personal Assistant
+#### AI Personal Assistant
 
 Local AI assistant with memory and transcription.
 
@@ -109,7 +109,7 @@ https://github.com/Hishamkhashman1/AI-personal-assistant
 
 <td width="50%" valign="top">
 
-### Bug Squancher
+#### Bug Squancher
 
 CLI utility for debugging terminal errors.
 
@@ -121,13 +121,13 @@ https://github.com/Hishamkhashman1/bug-squancher
 
 
 
-## Open Source
+### Open Source
 
 I occasionally contribute to open source projects through bug fixes, feature work and documentation improvements.
 
 
 
-## Contact
+### Contact
 
 Portfolio: https://hishamkhashman.dev
 
