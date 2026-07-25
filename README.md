@@ -15,7 +15,7 @@ Building things.
 
 </td>
 
-<td width="50%" valign="middle" align="center">
+<td width="15%" valign="middle" align="center">
 
 🇲🇽 Mexicano<br>
 🇯🇵 日本語 (N3)
@@ -171,7 +171,7 @@ Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 
 <td width="50%" valign="top" align="center">
 
-<img src="./assets/Durham_University_logo.svg.webp" height="42" alt="Durham University"/>
+<img src="./assets/Durham_University_logo.svg.webp" height="52" alt="Durham University"/>
 
 <br>
 
