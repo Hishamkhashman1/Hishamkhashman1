@@ -137,12 +137,6 @@ https://github.com/Hishamkhashman1/bug-squancher
 
 
 
-#### Open Source
-
-I occasionally contribute to open source projects through bug fixes, feature work and documentation improvements.
-
-
-
 <table>
 <tr>
 <td width="50%" valign="top">
