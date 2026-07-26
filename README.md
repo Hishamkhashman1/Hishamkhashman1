@@ -183,7 +183,7 @@ Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 
 <p align="center">
   <img src="./assets/PwC_Company_Logo.svg.webp" height="28" alt="PwC"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./assets/Accenture.svg.webp" height="28" alt="Accenture"/>
 </p>
 
