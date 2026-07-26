@@ -175,12 +175,9 @@ Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 
 <br>
 
-
-
 <b>Master's Degree in Financial Management (Merit)</b>
 
 <br><br>
-
 <p align="center">
   <img src="./assets/PwC_Company_Logo.svg.webp" height="28" alt="PwC"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
