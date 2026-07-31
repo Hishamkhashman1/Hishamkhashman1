@@ -179,5 +179,5 @@ Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
 </p>
 
 <p align="center">
-English • Español • 日本語
+English • Español • 日本語 • Português
 </p>
