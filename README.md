@@ -36,7 +36,7 @@ Former consultant with a background in finance and operations. Today I spend mos
 #### Current work & interests
 
 * Building and maintaining Forecast Alpha
-* Building my own Language Model
+* Building my own Language Model (AI)
 * Working with Python, FastAPI and Ruby on Rails
 * Contributing to open source when I can
 
