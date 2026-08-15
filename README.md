@@ -31,7 +31,7 @@ Trying to breakthrough as Full-stack engineer in 2026 👀 is (apparently) as cr
 
 so, call me crazy but I enjoy building backend systems, APIs and SaaS products.
 
-I also enjoy <a href="https://steamcommunity.com/id/hishamk87">video-gaming</a> 🎮 ask me for my all-time top 5!
+I also enjoy <a href="https://steamcommunity.com/id/hishamk87">video-gaming</a> 🎮.. ask me for my all-time top 5!
 
 check out my platform 
 https://www.forecastalpha.it.com .. 
