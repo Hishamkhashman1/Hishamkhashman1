@@ -29,7 +29,7 @@ Building things.
 
 Trying to breakthrough as Full-stack engineer in 2026 👀 is (apparently) as crazy as building a time machine.. Call me crazy but I enjoy building backend systems, APIs and SaaS products.
 
-Former consultant with a background in finance and operations.
+Former consultant with a background in finance and operations. check out my platform https://www.forecastalpha.it.com .. also checkout my homegrown LM RAG AI assistant @ https://www.hishakhashman.dev to check my AI labs works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
 
 #### Stack
 
