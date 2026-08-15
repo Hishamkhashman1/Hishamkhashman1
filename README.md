@@ -4,7 +4,7 @@
 <td width="80%" align="center">
 
 <h4>
-Trying to breakthrough as Full-Stack Software Engineer in 2026 👀 • Python • Ruby on Rails • FastAPI • JavaScript
+Software Engineering  • Python • Ruby on Rails • FastAPI • JavaScript
 
 フルスタックソフトウェアエンジニア
 </h4>
@@ -27,7 +27,7 @@ Building things.
 
 #### Quick Summary
 
-Full-stack engineer building backend systems, APIs and SaaS products.
+Trying to breakthrough as Full-stack engineer in 2026 in 2026 👀 building backend systems, APIs and SaaS products.
 
 Former consultant with a background in finance and operations. Today I spend most of my time designing, building and shipping software.
 
