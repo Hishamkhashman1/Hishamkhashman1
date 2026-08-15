@@ -25,7 +25,7 @@ Building things.
 </tr>
 </table>
 
-#### Quick Summary
+
 
 Trying to breakthrough as Full-stack engineer in 2026 👀 is (apparently) as crazy as building a time machine..
 
@@ -40,7 +40,6 @@ also checkout my homegrown LM RAG AI assistant @ https://www.hishamkhashman.dev
 
 to check my AI labs works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
 
-#### Stack
 
 <table width="800">
 
