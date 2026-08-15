@@ -4,7 +4,7 @@
 <td width="80%" align="center">
 
 <h4>
-Full-Stack Software Engineer • Python • Ruby on Rails • FastAPI • JavaScript
+Trying to breakthrough as Full-Stack Software Engineer in 2026 👀 • Python • Ruby on Rails • FastAPI • JavaScript
 
 フルスタックソフトウェアエンジニア
 </h4>
