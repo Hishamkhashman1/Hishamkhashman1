@@ -36,7 +36,7 @@ I also enjoy <a href="https://steamcommunity.com/id/hishamk87">video-gaming</a> 
 check out my platform 
 https://www.forecastalpha.it.com .. 
 
-also checkout my homegrown LM RAG AI assistant @ https://www.hishakhashman.dev 
+also checkout my homegrown LM RAG AI assistant @ https://www.hishamkhashman.dev 
 
 to check my AI labs works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
 
