@@ -120,7 +120,7 @@ to check my AI labs works go here: https://github.com/Hishamkhashman1/portfolio/
 <br><br>
 
 English • Español<br>
-日本語 • Português
+日本語 • Português • عربي
 
 </td>
 
