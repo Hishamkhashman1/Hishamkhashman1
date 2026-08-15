@@ -29,7 +29,9 @@ Building things.
 
 Trying to breakthrough as Full-stack engineer in 2026 👀 is (apparently) as crazy as building a time machine..
 
-Call me crazy but I enjoy building backend systems, APIs and SaaS products.
+so, call me crazy but I enjoy building backend systems, APIs and SaaS products.
+
+I also enjoy video-gaming, ask me for my all time top 5!
 
 check out my platform 
 https://www.forecastalpha.it.com .. 
