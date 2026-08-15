@@ -76,53 +76,6 @@ Former consultant with a background in finance and operations.
 
 
 
-#### Selected Builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-##### Forecast Alpha
-
-Operational intelligence platform.
-
-https://www.forecastalpha.it.com/
-
-</td>
-
-<td width="50%" valign="top">
-
-##### Rick and Morty API
-
-REST API built with FastAPI and PostgreSQL.
-
-https://rick-and-morty-api-9871cc72.fastapicloud.dev/
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-##### AI Personal Assistant
-
-Local AI assistant with memory and transcription.
-
-https://github.com/Hishamkhashman1/AI-personal-assistant
-
-</td>
-
-<td width="50%" valign="top">
-
-##### Bug Squancher
-
-CLI utility for debugging terminal errors.
-
-https://github.com/Hishamkhashman1/bug-squancher
-
-</td>
-</tr>
-</table>
 
 
 
