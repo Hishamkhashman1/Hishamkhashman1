@@ -75,51 +75,48 @@ Former consultant with a background in finance and operations. check out my plat
 </table>
 
 
-
-
-
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="34%" align="center" valign="middle">
 
-<table>
-<tr>
+<img src="./assets/Durham_University_logo.svg.webp" height="55" alt="Durham University"/>
 
-<td width="50%" valign="top">
+<br><br>
 
-#### Contact
-
-Portfolio: [Website](https://hishamkhashman.dev)
-
-GitHub: [Hishamkhashman1](https://github.com/Hishamkhashman1)
-
-LinkedIn: [Hisham Khashman](https://linkedin.com/in/hishamkhashman)
-
-Email: [hisham.khashman@gmail.com](mailto:hisham.khashman@gmail.com)
+<b>Master's in Financial Management</b><br>
+<sub>Merit</sub>
 
 </td>
 
-<td width="50%" valign="top" align="center">
 
-<img src="./assets/Durham_University_logo.svg.webp" height="58" alt="Durham University"/>
+<td width="33%" align="center" valign="middle">
 
-<br>
-
-<b>Master's Degree in Financial Management (Merit)</b>
+<sub><b>Formerly</b></sub>
 
 <br><br>
-<p align="center">
-  <img src="./assets/PwC_Company_Logo.svg.webp" height="28" alt="PwC"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/Accenture.svg.webp" height="28" alt="Accenture"/>
-</p>
 
-<p align="center">
-English • Español • 日本語 • Português
-</p>
+<img src="./assets/PwC_Company_Logo.svg.webp" height="28" alt="PwC"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/Accenture.svg.webp" height="28" alt="Accenture"/>
+
+</td>
+
+
+<td width="33%" align="center" valign="middle">
+
+<sub><b>Languages</b></sub>
+
+<br><br>
+
+English • Español<br>
+日本語 • Português
+
+</td>
+
+</tr>
+</table>
+
+
+
+
