@@ -27,20 +27,9 @@ Building things.
 
 #### Quick Summary
 
-Trying to breakthrough as Full-stack engineer in 2026 in 2026 👀 building backend systems, APIs and SaaS products.
+Trying to breakthrough as Full-stack engineer in 2026 👀 is (apparently) as crazy as building a time machine.. Call me crazy but I enjoy building backend systems, APIs and SaaS products.
 
-Former consultant with a background in finance and operations. Today I spend most of my time designing, building and shipping software.
-
-
-
-#### Current work & interests
-
-* Building and maintaining Forecast Alpha
-* Building my own Language Model (my AI labs initiative)
-* Working with Python, FastAPI and Ruby on Rails
-* Contributing to open source when I can
-
-
+Former consultant with a background in finance and operations.
 
 #### Stack
 
