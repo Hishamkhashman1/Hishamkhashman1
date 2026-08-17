@@ -110,7 +110,7 @@ to check my AI labs works go here: https://github.com/Hishamkhashman1/portfolio/
 <img src="./assets/PwC_Company_Logo.svg.webp" height="28" alt="PwC"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./assets/Accenture.svg.webp" height="28" alt="Accenture"/>
-
+ 
 </td>
 
 <td width="267" align="center" valign="middle">
