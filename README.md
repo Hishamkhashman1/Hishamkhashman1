@@ -5,7 +5,7 @@
 
 <h4>
 Software Engineering • Python • Ruby on Rails • FastAPI • JavaScript
-
+ 
 フルスタックソフトウェアエンジニア
 </h4>
 
