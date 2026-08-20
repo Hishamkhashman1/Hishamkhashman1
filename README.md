@@ -27,7 +27,7 @@ Building things.
 
 
 
-Trying to breakthrough as Full-stack engineer in 2026 👀 is (apparently) as crazy as building a time machine..
+Trying to breakthrough as Full-stack engineer in 2026 👀 is (apparently since 2024?) as crazy as building a time machine..
 
 so, call me crazy but I enjoy building backend systems, APIs and SaaS products.
 
