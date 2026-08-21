@@ -93,15 +93,11 @@ to check my AI labs works go here: https://github.com/Hishamkhashman1/portfolio/
 <b>iCalendar</b><br>
 <sub>Python</sub>
 </td>
-
 <td width="680" valign="middle">
-
 <b>Contributor — icalendar</b><br>
 Fixed a source-distribution packaging issue that excluded <code>funding.json</code>
 from PyPI releases by correcting the Hatchling build configuration.
-
-<br><br>
-
+<br>
 <a href="https://github.com/collective/icalendar/pull/1494">PR #1494 — Merged</a>
 &nbsp;•&nbsp;
 <a href="https://github.com/collective/icalendar/issues/1493">Issue #1493</a>
