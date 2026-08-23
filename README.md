@@ -27,7 +27,7 @@ Building things.
 
 
 
-Trying to breakthrough as Full-stack engineer is apparently as crazy as building a time machine..
+Trying to breakthrough as Full-stack engineer these days is apparently as crazy as building a time machine..
 
 so, call me crazy but I enjoy building backend systems, APIs and SaaS products.
 
