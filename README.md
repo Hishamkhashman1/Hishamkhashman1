@@ -27,9 +27,9 @@ Building things.
 
 
 
-Trying to breakthrough as Full-stack engineer these days is apparently as crazy as trying to make a wormhole..
+Breaking through as a Full-stack engineer
 
-so, call me crazy but I enjoy building backend systems, APIs and SaaS products.
+I enjoy building backend systems, APIs and E2E products.
 
 I also enjoy <a href="https://steamcommunity.com/id/hishamk87">video-gaming</a> 🎮.. ask me for my all-time top 5!
 
