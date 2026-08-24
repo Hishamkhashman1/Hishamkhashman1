@@ -1,29 +1,7 @@
-<table width="800">
-<tr>
 
-<td width="640" align="center">
-
-<h4>
-Software Engineering • Python • Ruby on Rails • FastAPI • JavaScript
  
 フルスタックソフトウェアエンジニア
-</h4>
 
-<p>
-Building things.
-</p>
-
-</td>
-
-<td width="160" valign="middle" align="center">
-
-🇲🇽 Mexicano<br>
-🇯🇵 日本語 (N3)
-
-</td>
-
-</tr>
-</table>
 
 
 
