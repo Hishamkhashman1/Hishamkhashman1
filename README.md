@@ -95,7 +95,7 @@ Released in <b>7.3.0</b>
 
 <img src="./assets/Durham_University_logo.svg.webp" height="55" alt="Durham University"/>
 
-<br><br>
+
 
 <b>Master's in Financial Management</b><br>
 <sub>Merit</sub>
@@ -106,7 +106,7 @@ Released in <b>7.3.0</b>
 
 <sub><b>Formerly</b></sub>
 
-<br><br>
+
 
 <img src="./assets/PwC_Company_Logo.svg.webp" height="28" alt="PwC"/>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -118,7 +118,7 @@ Released in <b>7.3.0</b>
 
 <sub><b>Languages</b></sub>
 
-<br><br>
+
 
 English • Español<br>
 日本語 • Português • عربي
