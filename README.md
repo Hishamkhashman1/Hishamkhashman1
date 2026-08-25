@@ -16,7 +16,7 @@ https://www.forecastalpha.it.com ..
 
 also checkout my homegrown LM RAG AI assistant @ https://www.hishamkhashman.dev 
 
-to check my AI labs works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
+to check my AI labs 🧪 works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
 
 
 <table width="800">
