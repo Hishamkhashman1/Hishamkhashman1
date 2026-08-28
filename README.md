@@ -9,7 +9,7 @@ Breaking through as a Full-stack engineer
 
 I enjoy building backend systems, APIs and E2E products.
 
-I also enjoy <a href="https://steamcommunity.com/id/hishamk87">video-gaming</a> 🎮.. ask me for my all-time top 5!
+I also enjoy <a href="https://steamcommunity.com/id/hishamk87">video-gaming</a> .. ask me for my all-time top 5🎮!
 
 check out my platform 🌐
 https://www.forecastalpha.it.com .. 
