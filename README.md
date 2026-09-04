@@ -7,7 +7,7 @@
 
 Breaking through as a Full-stack engineer
 
-I truly enjoy solving algorithms, building backend systems, APIs and E2E products.
+I truly enjoy solving algorithms, architect-ing solutions, building backend systems and logic, APIs and E2E products.
 
 
 
