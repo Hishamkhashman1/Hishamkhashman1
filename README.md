@@ -5,7 +5,7 @@
 
 
 
-Breaking through as a Full-stack engineer
+Breaking through as a Full-stack engineer. 
 I truly enjoy solving algorithms, architect-ing solutions, building backend systems and logic, APIs and E2E products.
 
 check out my operational intelligence platform 🌐
