@@ -1,28 +1,13 @@
-<p align="center">
-  <img src="./assets/image.png" width="100%" height="50%" alt="Subtle matrix-inspired background banner" />
-</p>
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="28"/>
-</p>
+ 
+フルスタックソフトウェアエンジニア
 
 
 
-## Projects
 
-### Featured
+Breaking through as a Full-stack engineer
 
+<<<<<<< HEAD
 **BugSquancher**
 CLI tool that captures failed commands and suggests fixes
 [Repository](https://github.com/Hishamkhashman1/bug-squancher)
@@ -33,79 +18,131 @@ Deployed MVP check Documentation for PIP install
 FastAPI + PostgreSQL API deployed for public usage
 [Deployed link](https://rick-and-morty-api-9871cc72.fastapicloud.dev/)
 [Repository](https://github.com/Hishamkhashman1/rick-and-morty-api)
+=======
+I truly enjoy solving algorithms, architect-ing solutions, building backend systems and logic, APIs and E2E products.
+>>>>>>> 986ab5b91a4b45510b3c7d7a6c88f69f0cdaff83
 
 
 
-**Forecast Alpha**
-AI-powered revenue intelligence platform (forecasting + anomaly detection)
-[Deployed link](https://www.forecastalpha.it.com/)
+check out my operational intelligence platform 🌐
+https://www.forecastalpha.it.com .. 
+
+also checkout my homegrown LM RAG AI assistant 🤖 @ https://www.hishamkhashman.dev 
+
+to check my AI labs 🧪 works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
+
+
+I also enjoy video-gaming.. ask me for my all-time top 5<a href="https://steamcommunity.com/id/hishamk87">🎮</a> !
+
+<table width="800">
+
+<tr>
+<td width="200" align="center"><sub><b>Languages</b></sub></td>
+<td width="200" align="center"><sub><b>Frameworks</b></sub></td>
+<td width="200" align="center"><sub><b>Databases</b></sub></td>
+<td width="200" align="center"><sub><b>Infrastructure</b></sub></td>
+</tr>
+
+<tr>
+
+<td width="200" valign="top" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35"/>
+</td>
+
+<td width="200" valign="top" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/>
+</td>
+
+<td width="200" valign="top" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35"/>
+</td>
+
+<td width="200" valign="top" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35"/>
+</td>
+
+</tr>
+</table>
+<h4>Open Source</h4>
+
+<table width="800">
+<tr>
+
+<td width="120" align="center" valign="middle">
+<b>iCalendar</b><br>
+<sub>Python</sub>
+</td>
+<td width="680" valign="middle">
+<b>Contributor — icalendar</b><br>
+Fixed a source-distribution packaging issue that excluded <code>funding.json</code>
+from PyPI releases by correcting the Hatchling build configuration.
+<br>
+<a href="https://github.com/collective/icalendar/pull/1494">PR #1494 — Merged</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/collective/icalendar/issues/1493">Issue #1493</a>
+&nbsp;•&nbsp;
+Released in <b>7.3.0</b>
+
+</td>
+
+</tr>
+</table>
+<h4>Background </h4>
+<table width="800">
+
+<tr>
+
+<td width="267" align="center" valign="middle">
+
+<img src="./assets/Durham_University_logo.svg.webp" height="55" alt="Durham University"/>
 
 
 
-### Current
+<b>Master's in Financial Management</b><br>
+<sub>Merit</sub>
 
-**Kifor Match (MVP)**
-Donor–charity matching platform for a Japanese nonprofit
-[Repository](https://github.com/kwood6319/kifor-match)
-Deployed link: Coming soon (WIP)
+</td>
 
+<td width="266" align="center" valign="middle">
 
+<<<<<<< HEAD
 ### Applications
-
-**LinguaLogic**
-Gamified coding learning platform
-[Deployed link](https://lingualogic-4a902f58893e.herokuapp.com/)
-[Repository](https://github.com/Hishamkhashman1/lingualogic)
-
-
-**World Cup 2026 Tracker**
-Real-time tracking web app
-[Deployed link](https://hishamkhashman1.github.io/wc26-tracker/)
-[Repository](https://github.com/Hishamkhashman1/wc26-tracker)
-
-
-**Movie Watch List**
-Rails app with API integration
-[Deployed link](https://hisham-watch-list-aad8d178a962.herokuapp.com/)
-Repository: Private
-
-
-**SEO Cyber Tool**
-SEO score reporting tool
-[Deployed link](https://mysterious-sands-38628-1e67da485e8d.herokuapp.com/)
-[Repository](https://github.com/Hishamkhashman1/seo-tool)
+=======
+<sub><b>Formerly</b></sub>
 
 
 
-### Data
+<img src="./assets/PwC_Company_Logo.svg.webp" height="28" alt="PwC"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./assets/Accenture.svg.webp" height="28" alt="Accenture"/>
+ 
+</td>
+>>>>>>> 986ab5b91a4b45510b3c7d7a6c88f69f0cdaff83
 
-**Stock Forecasting LSTM**
-Time-series prediction pipeline
-[Repository](https://github.com/Hishamkhashman1/stock-forecasting-lstm)
+<td width="267" align="center" valign="middle">
 
-
-
-**ML Data Analysis Suite**
-Analytics and automated reporting tool
-[Repository](https://github.com/Hishamkhashman1/ml-data-analysis-suite)
-
-
-
-### Security
-
-**Who’s Snooping**
-Local network monitoring tool
-[Repository](https://github.com/Hishamkhashman1/whos_snooping)
+<sub><b>Languages</b></sub>
 
 
 
-## Background
+English • Español<br>
+日本語 • Português • عربي
 
-10+ years across consulting, finance, operations, and technology
-Now focused on building production-ready software and data products
+</td>
 
-
-
-## Contact
-
-hisham.khashman@gmail.com
+</tr>
+</table>
