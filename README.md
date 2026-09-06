@@ -8,12 +8,12 @@
 Breaking through as a Full-stack engineer. 
 I truly enjoy solving algorithms, architect-ing solutions, building backend systems and logic, APIs and E2E products.
 
->>> check out my operational intelligence platform 🌐
+☑ check out my operational intelligence platform 🌐
 https://www.forecastalpha.it.com .. 
 
->>> also checkout my homegrown LM RAG AI assistant 🤖 @ https://www.hishamkhashman.dev 
+☑ also checkout my homegrown LM RAG AI assistant 🤖 @ https://www.hishamkhashman.dev 
 
->>> to check my AI labs 🧪 works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
+☑ to check my AI labs 🧪 works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
 
 
 I also enjoy video-gaming.. ask me for my all-time top 5<a href="https://steamcommunity.com/id/hishamk87">🎮</a> !
