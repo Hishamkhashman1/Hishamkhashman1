@@ -6,23 +6,7 @@
 
 
 Breaking through as a Full-stack engineer
-
-<<<<<<< HEAD
-**BugSquancher**
-CLI tool that captures failed commands and suggests fixes
-[Repository](https://github.com/Hishamkhashman1/bug-squancher)
-Deployed MVP check Documentation for PIP install
-
-
-**Rick and Morty API**
-FastAPI + PostgreSQL API deployed for public usage
-[Deployed link](https://rick-and-morty-api-9871cc72.fastapicloud.dev/)
-[Repository](https://github.com/Hishamkhashman1/rick-and-morty-api)
-=======
 I truly enjoy solving algorithms, architect-ing solutions, building backend systems and logic, APIs and E2E products.
->>>>>>> 986ab5b91a4b45510b3c7d7a6c88f69f0cdaff83
-
-
 
 check out my operational intelligence platform 🌐
 https://www.forecastalpha.it.com .. 
