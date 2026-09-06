@@ -103,9 +103,6 @@ Released in <b>7.3.0</b>
 
 <td width="266" align="center" valign="middle">
 
-<<<<<<< HEAD
-### Applications
-=======
 <sub><b>Formerly</b></sub>
 
 
@@ -115,7 +112,6 @@ Released in <b>7.3.0</b>
 <img src="./assets/Accenture.svg.webp" height="28" alt="Accenture"/>
  
 </td>
->>>>>>> 986ab5b91a4b45510b3c7d7a6c88f69f0cdaff83
 
 <td width="267" align="center" valign="middle">
 
