@@ -16,7 +16,7 @@ https://www.forecastalpha.it.com ..
 ☑ to check my LLM labs 🧪 works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
 
 
-I also enjoy video-gaming.. ask me for my all-time top 5<a href="https://steamcommunity.com/id/hishamk87">🎮</a> !
+I also enjoy video-gaming.. ask me for my all-time top 5<a href="https://steamcommunity.com/id/hishamk87">🎮</a>!
 
 <table width="800">
 
