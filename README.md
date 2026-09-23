@@ -2,7 +2,7 @@
  
 フルスタックソフトウェアエンジニア 
 
-
+<b> Currently working on a C algorithm for a standalone executable to protect linux systems against rogue AI Agents (Cybersecurity/Unix Processes) </b>
 
 
 Breaking through as a Full-stack engineer. 
@@ -15,7 +15,6 @@ https://www.forecastalpha.it.com ..
 
 ☑ to check my LLM labs 🧪 works go here: https://github.com/Hishamkhashman1/portfolio/tree/main/backend/experiments/generative_bilstm
 
-Currently working on a standalone C executable to protect linux systems against rogue AI Agents
 
 I also enjoy video-gaming.. ask me for my all-time top 5<a href="https://steamcommunity.com/id/hishamk87">🎮</a> !
 
