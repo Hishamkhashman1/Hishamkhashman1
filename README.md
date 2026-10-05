@@ -2,7 +2,7 @@
  
 フルスタックソフトウェアエンジニア 
 
-<b> Currently working on a C algorithm for a standalone executable to protect linux systems against rogue AI Agents (Cybersecurity/Unix Processes) </b>
+<b> Currently working on a cybersecurity algorithm for a standalone executable to protect linux systems against rogue AI Agents </b>
 
 Breaking through as a Full-stack engineer. 
 I truly enjoy solving algorithms (big fan of C and how things work in general), architect-ing solutions, building backend systems and logic, APIs and E2E products.
