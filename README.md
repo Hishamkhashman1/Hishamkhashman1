@@ -1,6 +1,6 @@
 
  
-フルスタックソフトウェアエンジニア 
+フルスタックソフトウェアエンジニア
 
 Currently working on a cybersecurity algorithm for a standalone executable to protect linux systems against rogue AI Agents
 
