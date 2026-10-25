@@ -117,7 +117,6 @@ Released in <b>7.3.0</b>
 <sub><b>Languages</b></sub>
 
 
-
 English • Español<br>
 日本語 • Português • عربي
 
