@@ -8,7 +8,7 @@ Breaking through as a Full-stack engineer.
 I truly enjoy solving algorithms (big fan of C and how things work in general), architect-ing solutions, building backend systems and logic, APIs and E2E products.
 
 ☑ check out my operational intelligence platform 🌐
-https://www.forecastalpha.it.com .. 
+https://www.forecastalpha.it.com  
 
 ☑ also checkout my homegrown LM RAG  assistant 🤖 @ https://www.hishamkhashman.dev 
 
