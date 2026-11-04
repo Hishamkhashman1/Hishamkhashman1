@@ -4,7 +4,7 @@
 
 Currently working on a cybersecurity algorithm for a standalone executable to protect linux systems against rogue AI Agents
 
-Breaking through as a Full-stack engineer. 
+Breaking through as a Full-stack engineer? 
 I truly enjoy solving algorithms (big fan of C and how things work in general), architect-ing solutions, building backend systems and logic, APIs and E2E products.
 
 ☑ check out my operational intelligence platform 🌐
