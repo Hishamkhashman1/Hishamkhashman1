@@ -1,7 +1,3 @@
-
- 
-フルスタックソフトウェアエンジニア。日本語じょうぞですね?
-
 Currently working on a cybersecurity algorithm for a standalone executable to protect linux systems against rogue AI Agents
 
 Breaking through as a Full-stack engineer
